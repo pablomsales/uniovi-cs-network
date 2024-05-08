@@ -27,7 +27,7 @@ driver.get("https://portalinvestigacion.uniovi.es/unidades/6069/tesis")
 # driver.maximize_window()
 
 
-# Clickeamos sobre el botón 'See more' hasta que ya no existe
+# Clickamos sobre el botón 'See more' hasta que ya no existe
 remaining_data = True
 while remaining_data:
     try:
@@ -36,20 +36,16 @@ while remaining_data:
         sleep(1)
     except NoSuchElementException:
         print(
-            "Se ha terminado de clickear el botón 'See more...'. También puede ser que no exista! Asegúrate"
+            "[i] Se ha terminado de clickear el botón 'See more...'. También puede ser que no exista! Asegúrate"
         )
         break
 
-# # obtenemos los autores
-# autores = driver.find_elements(By.XPATH, '//p[@class="c-doc__autores"]')
-# autores = list(map(lambda autor: autor.text.lower(), autores))  # a minusculas
 
-
-# años
+# obtenemos los contenedores de cada año
 years_containers = driver.find_elements(
     By.XPATH, '//div[@class="unidad-docs__grupo agrupador-anualidad"]'
 )
-# init dict que almacenara toda la info
+# init dict para almacenar toda la info
 full_dict = dict()
 
 for cont in years_containers:
@@ -62,12 +58,12 @@ for cont in years_containers:
         By.XPATH, './/li[@class="unidad-docs__item c-doc c-doc--dirigidas"]'
     )
 
-    # init dict con las tesis del año
+    # init dict para almacenar todas las tesis del año
     year_thesis_dict = dict()
 
     for i, thesis in enumerate(thesis_containers, 1):
 
-        # init dict por cada tesis
+        # init dict para almacenar la indo de cada tesis
         thesis_dict = dict()
 
         # obtenemos titulo, autor y directores del contenedor
@@ -75,7 +71,8 @@ for cont in years_containers:
         author = thesis.find_element(By.XPATH, './/p[@class="c-doc__autores"]')
         directors = thesis.find_element(By.XPATH, './/div[@class="c-doc__directores"]')
 
-        sleep(0.0001)
+        sleep(0.0001)  # sleep para que el driver pueda procesar toda la info
+
         # obtenemos texto
         title = title.text
         author = author.text.title()
@@ -88,18 +85,22 @@ for cont in years_containers:
         directors = list(map(lambda x: x.strip(), directors))
         directors = list(map(lambda x: x.title(), directors))
 
+        # agregamos la informacion al diccionario de la tesis
         thesis_dict["title"] = title
         thesis_dict["author"] = author
         thesis_dict["directors"] = directors
 
+        # asignamos un id a la tesis y guardamos toda la informacion en el dict de las tesis del año
         id_thesis = f"{year}-{i}"
         year_thesis_dict[id_thesis] = thesis_dict
 
+    # agregamos todas las tesis del año al dict completo
     full_dict[year] = year_thesis_dict
 
 
+# guardamos el json
 with open("thesis.json", "w", encoding="utf-8") as file:
     # ensure_ascii=False para que procese bien los acentos
     file.write(json.dumps(full_dict, indent=4, ensure_ascii=False))
 
-print("json exportado")
+print("[i] json exportado correctamente")
