@@ -2,7 +2,7 @@
     "2024": {
         "2024-1": {
             "title": "COLMENA: Modelo para la asistencia en la programación potenciado por la tecnología basado en análisis de datos",
-            "author": "Fernandez Medina, Carlos",
+            "author": "Carlos Fernandez Medina",
             "directors": [
                 "Juan Ramon Perez Perez"
             ]
@@ -11,7 +11,7 @@
     "2023": {
         "2023-1": {
             "title": "Análisis de imagen multiespectral y segmentación semántica para la monitorización medioambiental",
-            "author": "Díaz Pedrayes, Óscar",
+            "author": "Oscar Diaz Pedrayes",
             "directors": [
                 "Ruben Usamentiaga Fernandez",
                 "Daniel Fernando Garcia Martinez"
@@ -19,7 +19,7 @@
         },
         "2023-2": {
             "title": "Detección de objetos utilizando modelos de aprendizaje profundo sobre dispositivos de edge computing",
-            "author": "González Lema, Darío",
+            "author": "Dario Gonzalez Lema",
             "directors": [
                 "Daniel Fernando Garcia Martinez",
                 "Ruben Usamentiaga Fernandez"
@@ -27,21 +27,21 @@
         },
         "2023-3": {
             "title": "Explainable condition monitoring from imprecise information",
-            "author": "Costa Cortéz, Nahuel Alejandro",
+            "author": "Nahuel Alejandro Costa Cortez",
             "directors": [
                 "Luciano Sanchez Ramos"
             ]
         },
         "2023-4": {
             "title": "Maintenance of the logical consistency in Cassandra",
-            "author": "Suárez Otero González, Pablo",
+            "author": "Pablo Suarez Otero Gonzalez",
             "directors": [
                 "Pablo Javier Tuya Gonzalez"
             ]
         },
         "2023-5": {
             "title": "Mejoras en la optimización de hiperparámetros bajo cambios en la distribución.",
-            "author": "Fernández Díaz, Laura",
+            "author": "Laura Fernandez Diaz",
             "directors": [
                 "Jose Ramon Quevedo Perez",
                 "Elena Montañes Roces"
@@ -49,7 +49,7 @@
         },
         "2023-6": {
             "title": "Métodos que explotan información adjunta para predecir variables objetivo desconocidas.",
-            "author": "Fernández Díaz, Miriam",
+            "author": "Miriam Fernandez Diaz",
             "directors": [
                 "Elena Montañes Roces",
                 "Jose Ramon Quevedo Perez"
@@ -57,7 +57,7 @@
         },
         "2023-7": {
             "title": "Towards decentralized service orchestration for heterogeneous cloud services",
-            "author": "Arias Maestro, Alberto",
+            "author": "Alberto Arias Maestro",
             "directors": [
                 "Oscar Sanjuan Martinez"
             ]
@@ -66,14 +66,14 @@
     "2022": {
         "2022-1": {
             "title": "Arquitecturas de la web de las cosas (WoT) para la interoperabilidad en entornos inteligentes",
-            "author": "Ibaseta Rodríguez, Daniel",
+            "author": "Daniel Ibaseta Rodriguez",
             "directors": [
                 "Julio Molleda Mere"
             ]
         },
         "2022-2": {
             "title": "Autogestión energética de un parque de PCs",
-            "author": "Medrano Llamas, Ramón",
+            "author": "Ramon Medrano Llamas",
             "directors": [
                 "Daniel Fernando Garcia Martinez",
                 "Joaquin Entrialgo Castaño"
@@ -81,21 +81,21 @@
         },
         "2022-3": {
             "title": "Computationally-efficient methods for reaching consensus",
-            "author": "Rico Pachón, Noelia",
+            "author": "Noelia Rico Pachon",
             "directors": [
                 "Susana Irene Diaz Rodriguez"
             ]
         },
         "2022-4": {
             "title": "Diseño de componentes para la web of Things y evaluación de su integración en aplicaciones loT",
-            "author": "García Mangas, Andrés",
+            "author": "Andres Garcia Mangas",
             "directors": [
                 "Francisco Jose Suarez Alonso"
             ]
         },
         "2022-5": {
             "title": "Efectos de los patrones de aprendizaje en línea sobre el rendimiento académico desde una perspectiva de la minería de datos",
-            "author": "Riestra González, Moises",
+            "author": "Moises Riestra Gonzalez",
             "directors": [
                 "Maria Puerto Paule Ruiz",
                 "Francisco Ortin Soler"
@@ -103,7 +103,7 @@
         },
         "2022-6": {
             "title": "Extraction of structured semanti knowledge through data mining over social media",
-            "author": "Fernández Álvarez, Daniel",
+            "author": "Daniel Fernandez Alvarez",
             "directors": [
                 "Daniel Gayo Avello",
                 "Jose Emilio Labra Gayo"
@@ -111,7 +111,7 @@
         },
         "2022-7": {
             "title": "Influence of the inclusion of unstructured data in recommender systems",
-            "author": "Pérez Núñez, Pablo",
+            "author": "Pablo Perez Nunez",
             "directors": [
                 "Jorge Diez Pelaez",
                 "Oscar Luaces Rodriguez"
@@ -119,14 +119,14 @@
         },
         "2022-8": {
             "title": "Meta modelo de contratos inteligentes usando cadenas de bloques aplicado al sector público",
-            "author": "Triana Casallas, Jenny Alexandra",
+            "author": "Jenny Alexandra Triana Casallas",
             "directors": [
                 "Juan Manuel Cueva Lovelle"
             ]
         },
         "2022-9": {
             "title": "Modelo de predicción de volúmenes de producción y distribución de tamaño de frutos a cosecha en mandarino \"Tangor Murcott\"",
-            "author": "Bóbeda, Griselda Rita Romina",
+            "author": "Griselda Rita Romina Bobeda",
             "directors": [
                 "Susana Irene Diaz Rodriguez"
             ]
@@ -135,7 +135,7 @@
     "2021": {
         "2021-1": {
             "title": "Cálculo de reglas de prioridad para problemas de scheduling con hiperheurísticos",
-            "author": "Gil Gala, Francisco Javier",
+            "author": "Francisco Javier Gil Gala",
             "directors": [
                 "Jose Ramiro Varela Arias",
                 "Maria Rita Sierra Sanchez"
@@ -143,7 +143,7 @@
         },
         "2021-2": {
             "title": "Evolving priority rules for scheduling problems by means of hyper heuristics",
-            "author": "Gil Gala, Francisco Javier",
+            "author": "Francisco Javier Gil Gala",
             "directors": [
                 "Maria Rita Sierra Sanchez",
                 "Jose Ramiro Varela Arias"
@@ -151,7 +151,7 @@
         },
         "2021-3": {
             "title": "Inspección de la planitud de carriles con técnicas basadas en visión por computador",
-            "author": "Manso Bernal, Pedro",
+            "author": "Pedro Manso Bernal",
             "directors": [
                 "Ruben Usamentiaga Fernandez",
                 "Daniel Fernando Garcia Martinez"
@@ -159,7 +159,7 @@
         },
         "2021-4": {
             "title": "Integración semántica de grandes fuentes de datos heterogéneas",
-            "author": "García González, Herminio",
+            "author": "Herminio Garcia Gonzalez",
             "directors": [
                 "Jose Emilio Labra Gayo",
                 "Juan Manuel Cueva Lovelle"
@@ -167,7 +167,7 @@
         },
         "2021-5": {
             "title": "Interacción e intervención con dispositivos móviles para usuarios con tea y trastornos comunicativos",
-            "author": "Cabielles Hernández, David",
+            "author": "David Cabielles Hernandez",
             "directors": [
                 "Juan Ramon Perez Perez",
                 "Maria Puerto Paule Ruiz"
@@ -175,21 +175,21 @@
         },
         "2021-6": {
             "title": "Metodología de interoperabilidad basada en un lenguaje de representación unificado",
-            "author": "Mendieta Zuniga, Roy Arturo",
+            "author": "Roy Arturo Mendieta Zuniga",
             "directors": [
                 "Jose Maria Alvarez Rodriguez"
             ]
         },
         "2021-7": {
             "title": "Obtención de información semántica de alto nivel a partir de código binario",
-            "author": "Escalada Gómez, Javier",
+            "author": "Javier Escalada Gomez",
             "directors": [
                 "Francisco Ortin Soler"
             ]
         },
         "2021-8": {
             "title": "Propuesta de modelos quimiométricos para establecer sistemas de trazabilidad de naranjas producidas en la region nordeste argentina",
-            "author": "Gaiad, José Emilio",
+            "author": "Jose Emilio Gaiad",
             "directors": [
                 "Susana Irene Diaz Rodriguez"
             ]
@@ -198,14 +198,14 @@
     "2020": {
         "2020-1": {
             "title": "Caracterización de enfermedades basada en su información fenotípica recuperada mediante la extracción de conocimiento biomédico de fuentes de información públicas",
-            "author": "Lagunes GarcíA, Gerardo",
+            "author": "Gerardo Lagunes Garcia",
             "directors": [
                 "Alejandro Rodriguez Gonzalez"
             ]
         },
         "2020-2": {
             "title": "Diseño, monitorización y control de aplicaciones colaborativas persona-robot en entornos industriales",
-            "author": "Pérez Castaño, Luis",
+            "author": "Luis Perez Castano",
             "directors": [
                 "Ruben Usamentiaga Fernandez",
                 "Daniel Fernando Garcia Martinez"
@@ -213,14 +213,14 @@
         },
         "2020-3": {
             "title": "Infraestructura big code para mejorar la calidad en el desarrollo de software",
-            "author": "Rodríguez Prieto, Óscar",
+            "author": "Oscar Rodriguez Prieto",
             "directors": [
                 "Francisco Ortin Soler"
             ]
         },
         "2020-4": {
             "title": "Inspección superficial de productos largos en tiempo real basada en visión por computador",
-            "author": "De La Calle Herrero, Francisco Javier",
+            "author": "Francisco Javier De La Calle Herrero",
             "directors": [
                 "Daniel Fernando Garcia Martinez",
                 "Ruben Usamentiaga Fernandez"
@@ -228,7 +228,7 @@
         },
         "2020-5": {
             "title": "Modelado automático a través del análisis demográfico de la interacción del usuario",
-            "author": "Pariente Martínez, Beatriz",
+            "author": "Beatriz Pariente Martinez",
             "directors": [
                 "Bernardo Martin Gonzalez Rodriguez",
                 "Daniel Fernandez Lanvin"
@@ -236,7 +236,7 @@
         },
         "2020-6": {
             "title": "Modelo de big data y machine learning para mejorar el proceso de toma de decisiones en la administración de la salud de la población",
-            "author": "Lopez Martinez, Fernando Enrique",
+            "author": "Fernando Enrique Lopez Martinez",
             "directors": [
                 "Edward Rolando Nuñez Valdez",
                 "Vicente Garcia Diaz"
@@ -244,14 +244,14 @@
         },
         "2020-7": {
             "title": "New scalable machine learning methods: beyond classification and regression",
-            "author": "Eiras Franco, Carlos",
+            "author": "Carlos Eiras Franco",
             "directors": [
                 "Antonio Bahamonde Rionda"
             ]
         },
         "2020-8": {
             "title": "Reducción de efectos adversos derivados de entornos no controlados en técnicas de visión por computador para la detección de objetos",
-            "author": "Del Río Álvarez, Ángel Francisco",
+            "author": "Angel Francisco Del Rio Alvarez",
             "directors": [
                 "Bernardo Martin Gonzalez Rodriguez",
                 "Javier De Andres Suarez"
@@ -259,14 +259,14 @@
         },
         "2020-9": {
             "title": "Socialización de objetos inteligentes aplicando ingeniería dirigida por modelos en el marco de internet de las cosas",
-            "author": "Meana Llorián, Daniel",
+            "author": "Daniel Meana Llorian",
             "directors": [
                 "Juan Manuel Cueva Lovelle"
             ]
         },
         "2020-10": {
             "title": "Udlearn: modelo de aprendizaje de maquina que facilita la toma de decisiones academicas en las instituciones academicas de educacion superior",
-            "author": "Nieto Acevedo, Yuri Vanessa",
+            "author": "Yuri Vanessa Nieto Acevedo",
             "directors": [
                 "Vicente Garcia Diaz",
                 "Carlos Enrique Montenegro Marin"
@@ -276,7 +276,7 @@
     "2019": {
         "2019-1": {
             "title": "Diseño de métodos de cuantificación aplicados a la estimación de la distribución de los grupos taxonómicos presentes en muestras de plancton",
-            "author": "González González, Pablo",
+            "author": "Pablo Gonzalez Gonzalez",
             "directors": [
                 "Juan Jose Del Coz Velasco",
                 "Jorge Diez Pelaez"
@@ -284,7 +284,7 @@
         },
         "2019-2": {
             "title": "Functional testing techniques for new massive data processing paradigms",
-            "author": "Morán Barbón, Jesús",
+            "author": "Jesus Moran Barbon",
             "directors": [
                 "Claudio A. De La Riva Alvarez",
                 "Pablo Javier Tuya Gonzalez"
@@ -292,21 +292,21 @@
         },
         "2019-3": {
             "title": "Inspección dimensional de carriles de tren utilizando visión por computador",
-            "author": "Fernández Millara, Álvaro",
+            "author": "Alvaro Fernandez Millara",
             "directors": [
                 "Julio Molleda Mere"
             ]
         },
         "2019-4": {
             "title": "Métodos matemáticos para caracterización de defectos en materiales compuestos mediante termografía activa",
-            "author": "Venegas Bosom, Pablo",
+            "author": "Pablo Venegas Bosom",
             "directors": [
                 "Ruben Usamentiaga Fernandez"
             ]
         },
         "2019-5": {
             "title": "Métodos para la asistencia y agilización del diseño y desarrollo de clientes ricos robustos",
-            "author": "Quintela Pumares, Manuel",
+            "author": "Manuel Quintela Pumares",
             "directors": [
                 "Daniel Fernandez Lanvin",
                 "Alberto Manuel Fernandez Alvarez"
@@ -314,7 +314,7 @@
         },
         "2019-6": {
             "title": "Planificación inteligente de la carga de vehículos eléctricos",
-            "author": "Garcia Alvarez, Jorge",
+            "author": "Jorge Garcia Alvarez",
             "directors": [
                 "Maria Del Camino Rodriguez Vela",
                 "Miguel Angel Gonzalez Fernandez"
@@ -324,7 +324,7 @@
     "2018": {
         "2018-1": {
             "title": "Metodología y sistema analítico para la implantación de programas de conducción eficiente adaptativos en flotas profesionales de transporte regular",
-            "author": "García Tuero, Alejandro",
+            "author": "Alejandro Garcia Tuero",
             "directors": [
                 "Gabriel Diaz Orueta",
                 "Xicu Xabiel Garcia Pañeda"
@@ -332,7 +332,7 @@
         },
         "2018-2": {
             "title": "Técnicas de soft computing para la identificación de episodios de epilepsia empleando dispositivos wearable",
-            "author": "Vergara Garcia, Paula Maria",
+            "author": "Paula Maria Vergara Garcia",
             "directors": [
                 "Jose Ramon Villar Flecha",
                 "Enrique Antonio De La Cal Marin"
@@ -342,7 +342,7 @@
     "2017": {
         "2017-1": {
             "title": "Algoritmos de cuantificación basados en combinación de modelos",
-            "author": "Perez Gallego, Pablo",
+            "author": "Pablo Perez Gallego",
             "directors": [
                 "Juan Jose Del Coz Velasco",
                 "Jose Ramon Quevedo Perez"
@@ -350,14 +350,14 @@
         },
         "2017-2": {
             "title": "Aportes a los algoritmos de aprendizaje multiobjetivo para modelos semifísicos de estimación del estado de salud en baterías",
-            "author": "Echevarria Cartaya, Yuviny",
+            "author": "Yuviny Echevarria Cartaya",
             "directors": [
                 "Luciano Sanchez Ramos"
             ]
         },
         "2017-3": {
             "title": "Aprendizaje de estrategias inteligentes para la optimización energética en dispositivos heterogéneos de computación",
-            "author": "Cocaña Fernandez, Alberto",
+            "author": "Alberto Cocana Fernandez",
             "directors": [
                 "Jose Ranilla Pastor",
                 "Luciano Sanchez Ramos"
@@ -365,14 +365,14 @@
         },
         "2017-4": {
             "title": "Evaluación y diseño de métodos efectivos de inserción de texto en entornos de tv digital",
-            "author": "Barrero López, Aurora",
+            "author": "Aurora Barrero Lopez",
             "directors": [
                 "David Melendi Palacio"
             ]
         },
         "2017-5": {
             "title": "Lineamientos para la generación de contenidos en televisión adaptativa que mejoran la experiencia del televidente",
-            "author": "Mondragón Maca, Víctor Manuel",
+            "author": "Victor Manuel Mondragon Maca",
             "directors": [
                 "Vicente Garcia Diaz",
                 "Edward Rolando Nuñez Valdez"
@@ -380,28 +380,28 @@
         },
         "2017-6": {
             "title": "Meta-modelo para integración de datos abiertos aplicado a inteligencia de negocios",
-            "author": "Rodríguez Rojas, Luz Andrea",
+            "author": "Luz Andrea Rodriguez Rojas",
             "directors": [
                 "Juan Manuel Cueva Lovelle"
             ]
         },
         "2017-7": {
             "title": "Metaheurísticas para problemas de Scheduling con múltiples recursos",
-            "author": "Mencia Cascallana, Raul",
+            "author": "Raul Mencia Cascallana",
             "directors": [
                 "Jose Ramiro Varela Arias"
             ]
         },
         "2017-8": {
             "title": "Metamodelo para la integración de la internet de las cosas y redes sociales",
-            "author": "Rodríguez Molano, José Ignacio",
+            "author": "Jose Ignacio Rodriguez Molano",
             "directors": [
                 "Juan Manuel Cueva Lovelle"
             ]
         },
         "2017-9": {
             "title": "Midgar: interoperabilidad de objetos en el marco de internet de las cosas mediante el uso de ingeniería dirigida por modelos",
-            "author": "González García, Cristian",
+            "author": "Cristian Gonzalez Garcia",
             "directors": [
                 "Juan Manuel Cueva Lovelle",
                 "Begoña Cristina Pelayo Garcia Bustelo"
@@ -409,7 +409,7 @@
         },
         "2017-10": {
             "title": "Monotonicity-based consensus states for the monometric rationalisation of ranking rules with application in decision making",
-            "author": "Pérez Fernández, Raúl",
+            "author": "Raul Perez Fernandez",
             "directors": [
                 "Susana Montes Rodriguez",
                 "Susana Irene Diaz Rodriguez"
@@ -417,14 +417,14 @@
         },
         "2017-11": {
             "title": "Métodos de inferencia basados en búsqueda heurística para cadenas de clasificadores probabilísticos",
-            "author": "Mena Waldo, Deiner",
+            "author": "Deiner Mena Waldo",
             "directors": [
                 "Juan Jose Del Coz Velasco"
             ]
         },
         "2017-12": {
             "title": "Qirisya. Las redes sociales y la computación en la nube para el mantenimiento y la prospectiva de la gestión del conocimiento en las organizaciones",
-            "author": "López Quintero, José Fernando",
+            "author": "Jose Fernando Lopez Quintero",
             "directors": [
                 "Juan Manuel Cueva Lovelle",
                 "Begoña Cristina Pelayo Garcia Bustelo"
@@ -432,7 +432,7 @@
         },
         "2017-13": {
             "title": "Reconocimiento de atributos faciales mediante visión por computador para la detección de distracción y somnolencia en conductores",
-            "author": "Fernandez Villan, Alberto",
+            "author": "Alberto Fernandez Villan",
             "directors": [
                 "Ruben Usamentiaga Fernandez",
                 "Ruben Casado Tejedor"
@@ -440,7 +440,7 @@
         },
         "2017-14": {
             "title": "Redes vehiculares aplicadas a la movilidad inteligente y sostenibilidad ambiental en entornos de ciudades inteligentes",
-            "author": "Sánchez Sánchez, Jose Antonio",
+            "author": "Jose Antonio Sanchez Sanchez",
             "directors": [
                 "David Melendi Palacio",
                 "Laura Pozueco Alvarez"
@@ -448,21 +448,21 @@
         },
         "2017-15": {
             "title": "Tecnologías para la recomendación semántica y filtrado colaborativo de contenidos y servicios",
-            "author": "Colombo Mendoza, Luis Omar",
+            "author": "Luis Omar Colombo Mendoza",
             "directors": [
                 "Alejandro Rodriguez Gonzalez"
             ]
         },
         "2017-16": {
             "title": "Tecnologías semánticas aplicadas al análisis de redes sociales en el ámbito de la salud",
-            "author": "Benítez Andrades, Jose Alberto",
+            "author": "Jose Alberto Benitez Andrades",
             "directors": [
                 "Jose Emilio Labra Gayo"
             ]
         },
         "2017-17": {
             "title": "Un enfoque de evaluación demográfica estructurada para tecnologías interactivas basado en la identificación de factores de usabilidad de impacto",
-            "author": "Faisal, Chaudhry Muhammad Nadeem",
+            "author": "Chaudhry Muhammad Nadeem Faisal",
             "directors": [
                 "Bernardo Martin Gonzalez Rodriguez",
                 "Daniel Fernandez Lanvin"
@@ -470,7 +470,7 @@
         },
         "2017-18": {
             "title": "Variables de comportamiento para desarrollar un modelo de interacción en los lmss",
-            "author": "Sánchez Santillán, Miguel",
+            "author": "Miguel Sanchez Santillan",
             "directors": [
                 "Maria Puerto Paule Ruiz",
                 "Rebeca Cerezo Menendez"
@@ -478,7 +478,7 @@
         },
         "2017-19": {
             "title": "Vitruvius: ingeniería dirigida por modelos para la generación de aplicaciones basadas en sensores de vehículos interconectados",
-            "author": "Cueva Fernández, Guillermo",
+            "author": "Guillermo Cueva Fernandez",
             "directors": [
                 "Vicente Garcia Diaz",
                 "Jordan Pascual Espada"
@@ -488,7 +488,7 @@
     "2016": {
         "2016-1": {
             "title": "Desarrollo de un sistema de información para la gestión integrada de pasivos mineros. Aplicación en la minería de Perú",
-            "author": "Rivera Cueva, Úrsula Sandra",
+            "author": "Ursula Sandra Rivera Cueva",
             "directors": [
                 "Oscar Sanjuan Martinez",
                 "Pablo Cienfuegos Suarez"
@@ -496,7 +496,7 @@
         },
         "2016-2": {
             "title": "Diseño de robots biomédicos. Aplicación en medicina traslacional",
-            "author": "De Andrés Galiana, Enrique Juan",
+            "author": "Enrique Juan De Andres Galiana",
             "directors": [
                 "Juan Luis Fernandez Martinez",
                 "Oscar Luaces Rodriguez"
@@ -504,14 +504,14 @@
         },
         "2016-3": {
             "title": "El proceso de coquización como vía de reciclado de residuos de polietileno",
-            "author": "Gayo López, Francisco",
+            "author": "Francisco Gayo Lopez",
             "directors": [
                 "Roberto Garcia Fernandez"
             ]
         },
         "2016-4": {
             "title": "GeMTe: generación semántica de modelos de tramitación electrónica",
-            "author": "Infante Hernández, Guillermo",
+            "author": "Guillermo Infante Hernandez",
             "directors": [
                 "Aquilino Adolfo Juan Fuente",
                 "Benjamin Lopez Perez"
@@ -519,14 +519,14 @@
         },
         "2016-5": {
             "title": "Metaheurísticas para el diagnóstico precoz de ictus cerebral basado en las anomalías en los movimientos",
-            "author": "González González, Silvia",
+            "author": "Silvia Gonzalez Gonzalez",
             "directors": [
                 "Jose Ramon Villar Flecha"
             ]
         },
         "2016-6": {
             "title": "Metodología y sistema de apoyo para el aprendizaje activo de la conducción eficiente en vehículos de combustión",
-            "author": "Rionda Rodríguez, Abel",
+            "author": "Abel Rionda Rodriguez",
             "directors": [
                 "Gabriel Diaz Orueta",
                 "Xicu Xabiel Garcia Pañeda"
@@ -534,21 +534,21 @@
         },
         "2016-7": {
             "title": "Nuevas tecnologías para la mejora de la eficiencia energética aplicadas al contexto del hogar digital y la smart grid",
-            "author": "Rodríguez Fernández, María",
+            "author": "Maria Rodriguez Fernandez",
             "directors": [
                 "Ignacio González Alonso"
             ]
         },
         "2016-8": {
             "title": "Optimizing Runtime Performance of Dynamically Typed Code",
-            "author": "Quiroga Álvarez, José",
+            "author": "Jose Quiroga Alvarez",
             "directors": [
                 "Francisco Ortin Soler"
             ]
         },
         "2016-9": {
             "title": "Selección de las métricas más relevantes para la evaluación automática del rendimiento de los alumnos en cursos online basada en medidas de cantidad de información para datos imprecisos",
-            "author": "Junco Navascués, Luis Antonio",
+            "author": "Luis Antonio Junco Navascues",
             "directors": [
                 "Ana Maria Palacios Jimenez",
                 "Ines Couso Blanco"
@@ -556,7 +556,7 @@
         },
         "2016-10": {
             "title": "Sistemas de planificación y soporte a la decisión en el ámbito de la agricultura de precisión",
-            "author": "De Benito Arango, Rodolfo",
+            "author": "Rodolfo De Benito Arango",
             "directors": [
                 "Susana Irene Diaz Rodriguez"
             ]
@@ -565,21 +565,21 @@
     "2015": {
         "2015-1": {
             "title": "A cloud based infrastructure to support business process analytics on highly distributed environments",
-            "author": "Vera Baquero, Alejandro",
+            "author": "Alejandro Vera Baquero",
             "directors": [
                 "Jose Maria Alvarez Rodriguez"
             ]
         },
         "2015-2": {
             "title": "An overlay network solution for delay-tolerant video streaming over mobile ad-hoc networks",
-            "author": "Cabrero Barros, Sergio",
+            "author": "Sergio Cabrero Barros",
             "directors": [
                 "Xicu Xabiel Garcia Pañeda"
             ]
         },
         "2015-3": {
             "title": "Análisis de prestaciones para servicios multimedia masivos y su aplicación a sistemas de distribución de vídeo adaptativos",
-            "author": "Álvarez González, Alberto",
+            "author": "Alberto Alvarez Gonzalez",
             "directors": [
                 "Gabriel Diaz Orueta",
                 "Roberto Garcia Fernandez"
@@ -587,21 +587,21 @@
         },
         "2015-4": {
             "title": "Arquitectura de egoverment basada en modelos de información interoperables",
-            "author": "González Pérez, Secundino",
+            "author": "Secundino Gonzalez Perez",
             "directors": [
                 "Benjamin Lopez Perez"
             ]
         },
         "2015-5": {
             "title": "Desarrollo de tecnologías colaborativas para entornos virtuales de apoyo al aprendizaje",
-            "author": "Sagástegui Chigne, Teobaldo Hernán",
+            "author": "Teobaldo Hernan Sagastegui Chigne",
             "directors": [
                 "Jose Emilio Labra Gayo"
             ]
         },
         "2015-6": {
             "title": "Mathematical tools for Hesitant Sets: applications",
-            "author": "Quirós Cueto, Pelayo",
+            "author": "Pelayo Quiros Cueto",
             "directors": [
                 "Susana Irene Diaz Rodriguez",
                 "Pedro Alonso Velazquez"
@@ -609,7 +609,7 @@
         },
         "2015-7": {
             "title": "Metaheuristic strategies for scheduling under uncertainty",
-            "author": "Palacios Alonso, Juan José",
+            "author": "Juan Jose Palacios Alonso",
             "directors": [
                 "Ines Gonzalez Rodriguez",
                 "Maria Del Camino Rodriguez Vela"
@@ -617,14 +617,14 @@
         },
         "2015-8": {
             "title": "Plataforma de Desarrollo Software con Tejido Estático y Dinámico de Aspectos",
-            "author": "Felix Rodríguez, José Manuel",
+            "author": "Jose Manuel Felix Rodriguez",
             "directors": [
                 "Francisco Ortin Soler"
             ]
         },
         "2015-9": {
             "title": "Técnicas bioinspiradas y métodos para la creación de la población inicial basada en el origen de la sucesión de Fibonacci, con aplicaciones lumínicas para la purificación del agua",
-            "author": "Zaldaña Bustamante, Hugo Ramiro",
+            "author": "Hugo Ramiro Zaldana Bustamante",
             "directors": [
                 "Ruben Aristides Gonzalez Crespo",
                 "Oscar Sanjuan Martinez"
@@ -632,7 +632,7 @@
         },
         "2015-10": {
             "title": "Verificación de restricciones de modelo, estáticas y dinámicas, en entornos atómicos para lenguajes orientados a objetos",
-            "author": "Fernández Álvarez, Alberto Manuel",
+            "author": "Alberto Manuel Fernandez Alvarez",
             "directors": [
                 "Daniel Fernandez Lanvin",
                 "Raul Izquierdo Castanedo"
@@ -642,14 +642,14 @@
     "2014": {
         "2014-1": {
             "title": "Design of Fuzzy Rule-based Ensembles using FURIA, Diversity Induction and Evolutionary Algorithms",
-            "author": "Trawinski, Krzysztof",
+            "author": "Krzysztof Trawinski",
             "directors": [
                 "Luciano Sanchez Ramos"
             ]
         },
         "2014-2": {
             "title": "Diseño y evaluación de sistemas de estimación de ancho de banda disponible para servicios adaptativos de vídeo streaming",
-            "author": "Pozueco Álvarez, Laura",
+            "author": "Laura Pozueco Alvarez",
             "directors": [
                 "Gabriel Diaz Orueta",
                 "Xicu Xabiel Garcia Pañeda"
@@ -657,21 +657,21 @@
         },
         "2014-3": {
             "title": "Energy advisory services at households",
-            "author": "Menéndez González, Carlos Luis",
+            "author": "Carlos Luis Menendez Gonzalez",
             "directors": [
                 "Luciano Sanchez Ramos"
             ]
         },
         "2014-4": {
             "title": "Espumas de carbono con propiedades avanzadas derivadas de carbones bituminosos",
-            "author": "Rodríguez Vázquez, María Elena",
+            "author": "Maria Elena Rodriguez Vazquez",
             "directors": [
                 "Roberto Garcia Fernandez"
             ]
         },
         "2014-5": {
             "title": "Machine learning algorithms and experimentation methods applied to sample quantification",
-            "author": "Barranquero Tolosa, José",
+            "author": "Jose Barranquero Tolosa",
             "directors": [
                 "Juan Jose Del Coz Velasco",
                 "Jorge Diez Pelaez"
@@ -679,7 +679,7 @@
         },
         "2014-6": {
             "title": "Metamodelo de procesos de comercio electrónico (e-commerce) para lograr la reutilización y la interoperabilidad",
-            "author": "Bermudez Tarazona, Giovanny Mauricio",
+            "author": "Giovanny Mauricio Bermudez Tarazona",
             "directors": [
                 "Begoña Cristina Pelayo Garcia Bustelo",
                 "Oscar Sanjuan Martinez"
@@ -687,7 +687,7 @@
         },
         "2014-7": {
             "title": "Metodología para la aplicación de ingeniería dirigida por modelos a la construcción de aplicaciones multigénero y multiplataforma por parte de los expertos del dominio",
-            "author": "Solís Martínez, Jaime",
+            "author": "Jaime Solis Martinez",
             "directors": [
                 "Vicente Garcia Diaz",
                 "Juan Manuel Cueva Lovelle"
@@ -695,7 +695,7 @@
         },
         "2014-8": {
             "title": "Monitorización y predicción del estado en flotas de motores usando análisis inteligente de datos para información intervalo-valorada y posibilística",
-            "author": "Martínez Gómez, Álvaro",
+            "author": "Alvaro Martinez Gomez",
             "directors": [
                 "Ines Couso Blanco",
                 "Luciano Sanchez Ramos"
@@ -703,7 +703,7 @@
         },
         "2014-9": {
             "title": "Testing service level agreements in service-based applications",
-            "author": "Palacios Gutiérrez, Marcos",
+            "author": "Marcos Palacios Gutierrez",
             "directors": [
                 "Pablo Javier Tuya Gonzalez"
             ]
@@ -712,14 +712,14 @@
     "2013": {
         "2013-1": {
             "title": "Análisis del uso de la inteligencia colaborativa como herramienta para la construcción de bases de conocimiento consensuadas en procesos de diagnóstico médico",
-            "author": "Hernández Chan, Gandhi Samuel",
+            "author": "Gandhi Samuel Hernandez Chan",
             "directors": [
                 "Alejandro Rodriguez Gonzalez"
             ]
         },
         "2013-2": {
             "title": "Arquitectura multi-agente basada en sistemas difusos para el seguimiento del aprendizaje a través de entornos de inmersión en línea",
-            "author": "Bolívar Barón, Holman Diego",
+            "author": "Holman Diego Bolivar Baron",
             "directors": [
                 "Ruben Aristides Gonzalez Crespo",
                 "Oscar Sanjuan Martinez"
@@ -727,7 +727,7 @@
         },
         "2013-3": {
             "title": "Diseño y evaluación de una plataforma autonómica para el desarrollo de actividades de e-learning síncrono",
-            "author": "Nuño Huergo, Pelayo",
+            "author": "Pelayo Nuno Huergo",
             "directors": [
                 "Juan Carlos Granda Candas",
                 "Francisco Jose Suarez Alonso"
@@ -735,14 +735,14 @@
         },
         "2013-4": {
             "title": "Mejora del rendimiento y robustez de los lenguajes con sistemas de tipos estáticos y dinámico",
-            "author": "Garcia Rodriguez, Miguel",
+            "author": "Miguel Garcia Rodriguez",
             "directors": [
                 "Francisco Ortin Soler"
             ]
         },
         "2013-5": {
             "title": "Métodos heurísticos avanzados para problemas de scheduling",
-            "author": "Mencía Cascallana, Carlos",
+            "author": "Carlos Mencia Cascallana",
             "directors": [
                 "Jose Ramiro Varela Arias",
                 "Maria Rita Sierra Sanchez"
@@ -750,7 +750,7 @@
         },
         "2013-6": {
             "title": "Reutilización estratégica de diseños arquitectónicos mediante el uso de prototipos de infraestructura lógica estable",
-            "author": "Millán García, Gustavo",
+            "author": "Gustavo Millan Garcia",
             "directors": [
                 "Ruben Aristides Gonzalez Crespo",
                 "Oscar Sanjuan Martinez"
@@ -758,7 +758,7 @@
         },
         "2013-7": {
             "title": "Testing advanced transactions in service-based software systems",
-            "author": "Casado Tejedor, Rubén",
+            "author": "Ruben Casado Tejedor",
             "directors": [
                 "Pablo Javier Tuya Gonzalez"
             ]
@@ -767,7 +767,7 @@
     "2012": {
         "2012-1": {
             "title": "Caracterización de la popularidad en servicios de vídeo bajo demanda aplicada a periódicos digitales",
-            "author": "González Aparicio, María Teresa",
+            "author": "Maria Teresa Gonzalez Aparicio",
             "directors": [
                 "Xicu Xabiel Garcia Pañeda",
                 "Roberto Garcia Fernandez"
@@ -775,7 +775,7 @@
         },
         "2012-2": {
             "title": "Clasificación de defectos periódicos en sistemas de inspección basados en visión por computador",
-            "author": "González Bulnes, Francisco",
+            "author": "Francisco Gonzalez Bulnes",
             "directors": [
                 "Ruben Usamentiaga Fernandez",
                 "Daniel Fernando Garcia Martinez"
@@ -783,14 +783,14 @@
         },
         "2012-3": {
             "title": "Desarrollo de sorbentes regenerables de mercurio a partir de materiales de carbono",
-            "author": "Rodríguez Perez, Jorge",
+            "author": "Jorge Rodriguez Perez",
             "directors": [
                 "Roberto Garcia Fernandez"
             ]
         },
         "2012-4": {
             "title": "Diseño de objetos virtuales colaborativos orientados a servicios en el marco de internet de las cosas",
-            "author": "Pascual Espada, Jordán",
+            "author": "Jordan Pascual Espada",
             "directors": [
                 "Juan Manuel Cueva Lovelle",
                 "Oscar Sanjuan Martinez"
@@ -798,14 +798,14 @@
         },
         "2012-5": {
             "title": "Métodos semánticos de reutilización de datos abiertos enlazados en las licitaciones públicas",
-            "author": "Álvarez Rodríguez, José María",
+            "author": "Jose Maria Alvarez Rodriguez",
             "directors": [
                 "Jose Emilio Labra Gayo"
             ]
         },
         "2012-6": {
             "title": "Sistemas de recomendación de contenidos para libros inteligentes",
-            "author": "Núñez Valdez, Edward Rolando",
+            "author": "Edward Rolando Nunez Valdez",
             "directors": [
                 "Juan Manuel Cueva Lovelle",
                 "Oscar Sanjuan Martinez"
@@ -815,7 +815,7 @@
     "2011": {
         "2011-1": {
             "title": "Extracción de conocimiento a partir de datos imprecisos. Aplicación al diagnóstico precoz de la dislexia.",
-            "author": "Palacios Jiménez, Ana María",
+            "author": "Ana Maria Palacios Jimenez",
             "directors": [
                 "Ines Couso Blanco",
                 "Luciano Sanchez Ramos"
@@ -823,7 +823,7 @@
         },
         "2011-2": {
             "title": "Mdci: model-driven continuous integration",
-            "author": "García Díaz, Vicente",
+            "author": "Vicente Garcia Diaz",
             "directors": [
                 "Begoña Cristina Pelayo Garcia Bustelo",
                 "Juan Manuel Cueva Lovelle"
@@ -831,7 +831,7 @@
         },
         "2011-3": {
             "title": "Modelado especifico de dominio para la contruccion de learning objects independientes de la plataforma",
-            "author": "Montenegro Marín, Carlos E.",
+            "author": "Carlos E. Montenegro Marin",
             "directors": [
                 "Juan Manuel Cueva Lovelle",
                 "Oscar Sanjuan Martinez"
@@ -839,14 +839,14 @@
         },
         "2011-4": {
             "title": "Nuevos materiales mesoporosos como soportes para catálisis heterogénea: control de su morfología y aplicación en procesos catalíticos asistidos por microondas",
-            "author": "Carrillo Gómez, Adela Isabel",
+            "author": "Adela Isabel Carrillo Gomez",
             "directors": [
                 "Javier Garcia Martinez"
             ]
         },
         "2011-5": {
             "title": "Sirius: sistema de evaluación de la usabilidad web orientado al usuario y basado en la determinación de tareas críticas",
-            "author": "Suárez Torrente, María Del Carmen",
+            "author": "Maria Del Carmen Suarez Torrente",
             "directors": [
                 "Ana Belen Martinez Prieto",
                 "Juan Manuel Cueva Lovelle"
@@ -854,14 +854,14 @@
         },
         "2011-6": {
             "title": "Soluciones metaheurísticas al \"job-shop scheduling problem with sequence-dependent setup times\"",
-            "author": "González Fernández, Miguel Ángel",
+            "author": "Miguel Angel Gonzalez Fernandez",
             "directors": [
                 "Maria Del Camino Rodriguez Vela"
             ]
         },
         "2011-7": {
             "title": "Voice Interactive Classroom: a service-oriented software architecture to enable cross-platform multi-channel access to Internet-based learning",
-            "author": "Álvarez García, Víctor Manuel",
+            "author": "Victor Manuel Alvarez Garcia",
             "directors": [
                 "Maria Puerto Paule Ruiz"
             ]
@@ -870,14 +870,14 @@
     "2010": {
         "2010-1": {
             "title": "ALMcss : separación de estructura y presentación en la Web mediante posicionamiento avanzado en CSS",
-            "author": "Fernández Acebal, César",
+            "author": "Cesar Fernandez Acebal",
             "directors": [
                 "Juan Manuel Cueva Lovelle"
             ]
         },
         "2010-2": {
             "title": "Incidencia del tráfico rodado en la distribución espacial y temporal del ruido en cruces de vías urbanas",
-            "author": "Zurita Hevia, Ruben",
+            "author": "Ruben Zurita Hevia",
             "directors": [
                 "Jorge Luis Parrondo Gayo",
                 "Jose Antonio Corrales Gonzalez"
@@ -885,7 +885,7 @@
         },
         "2010-3": {
             "title": "Integración de información y compensación de sensores con tolerancia variable basadas en soft computing aplicadas a la metrología dimensional en inspección de vehículos",
-            "author": "Otero Rodriguez, Adolfo",
+            "author": "Adolfo Otero Rodriguez",
             "directors": [
                 "Luciano Sanchez Ramos",
                 "Jose Otero Rodriguez"
@@ -893,7 +893,7 @@
         },
         "2010-4": {
             "title": "Materiales funcionales híbridos basados en nanopartículas metálicas y complejos de coordinación en sílices nanoestructuradas",
-            "author": "Linares Pérez, Noemi",
+            "author": "Noemi Linares Perez",
             "directors": [
                 "Javier Garcia Martinez"
             ]
@@ -902,21 +902,21 @@
     "2009": {
         "2009-1": {
             "title": "Aprendizaje de funciones capaces de evaluar preferencias aplicado a la valoración de la aptitud cárnica de bovinos de la raza asturiana de los valles",
-            "author": "Alonso González, Jaime",
+            "author": "Jaime Alonso Gonzalez",
             "directors": [
                 "Antonio Bahamonde Rionda"
             ]
         },
         "2009-2": {
             "title": "Cgm: método de generación de código (cgm: a code generation method) inferencia automática de requisitos para posterior generación de software",
-            "author": "González Alonso, Ignacio",
+            "author": "Ignacio Gonzalez Alonso",
             "directors": [
                 "Maria Del Pilar Almudena Garcia Fuente"
             ]
         },
         "2009-3": {
             "title": "Mejora de algoritmos de búsqueda heurística mediante poda por dominancia. Aplicación a problemas de Scheduling",
-            "author": "Sierra Sánchez, María Rita",
+            "author": "Maria Rita Sierra Sanchez",
             "directors": [
                 "Jose Ramiro Varela Arias"
             ]
@@ -925,14 +925,14 @@
     "2008": {
         "2008-1": {
             "title": "Arquitecturas intermedias de adaptación de contenidos online para lograr la accesibilidad en entornos cambiantes mediante técnicas emergentes",
-            "author": "González Crespo, Rubén",
+            "author": "Ruben Aristides Gonzalez Crespo",
             "directors": [
                 "Oscar Sanjuan Martinez"
             ]
         },
         "2008-2": {
             "title": "Búsqueda dispersa para la generación automática de casos de prueba de software",
-            "author": "Blanco Aguirre, Raquel",
+            "author": "Raquel Blanco Aguirre",
             "directors": [
                 "Pablo Javier Tuya Gonzalez",
                 "Belarmino Adenso Diaz Fernandez"
@@ -940,7 +940,7 @@
         },
         "2008-3": {
             "title": "Caracterización, evaluación y optimización de sistemas multimedia interactivos en entornos de e-learning síncrono",
-            "author": "Granda Candás, Juan Carlos",
+            "author": "Juan Carlos Granda Candas",
             "directors": [
                 "Francisco Jose Suarez Alonso",
                 "Daniel Fernando Garcia Martinez"
@@ -948,7 +948,7 @@
         },
         "2008-4": {
             "title": "Generación automática de reglas de trading mediante algoritmos genéticos con optimización del binomio rentabilidad-riesgo",
-            "author": "Fernández García, Manuel Enrique",
+            "author": "Manuel Enrique Fernandez Garcia",
             "directors": [
                 "Enrique Antonio De La Cal Marin",
                 "Raquel Quiroga Garcia"
@@ -956,7 +956,7 @@
         },
         "2008-5": {
             "title": "Técnicas de visión por computador para la reconstrucción en tiempo real de la forma 3D de productos laminados",
-            "author": "Molleda Meré, Julio",
+            "author": "Julio Molleda Mere",
             "directors": [
                 "Daniel Fernando Garcia Martinez",
                 "Ruben Usamentiaga Fernandez"
@@ -966,7 +966,7 @@
     "2007": {
         "2007-1": {
             "title": "Análisis del tráfico generado por servicios de audio y video en internet al atravesar diferentes tecnologías de red",
-            "author": "Vilas Paz, Manuel",
+            "author": "Manuel Vilas Paz",
             "directors": [
                 "Xicu Xabiel Garcia Pañeda",
                 "Roberto Garcia Fernandez"
@@ -974,7 +974,7 @@
         },
         "2007-2": {
             "title": "Configuración, despliegue y evaluación de servicios de audio y video en directo sobre redes heterogéneas",
-            "author": "Melendi Palacio, David",
+            "author": "David Melendi Palacio",
             "directors": [
                 "Victor Guillermo Garcia Garcia",
                 "Xicu Xabiel Garcia Pañeda"
@@ -982,14 +982,14 @@
         },
         "2007-3": {
             "title": "Estimación de la información mutua en problemas con datos imprecisos",
-            "author": "Suarez Fernández, María Del Rosario",
+            "author": "Maria Del Rosario Suarez Fernandez",
             "directors": [
                 "Luciano Sanchez Ramos"
             ]
         },
         "2007-4": {
             "title": "Generación de casos de prueba para composiciones de servicios web",
-            "author": "García Fanjul, José",
+            "author": "Jose Garcia Fanjul",
             "directors": [
                 "Pablo Javier Tuya Gonzalez",
                 "Claudio A. De La Riva Alvarez"
@@ -997,14 +997,14 @@
         },
         "2007-5": {
             "title": "Mejora del rendimiento de la reflexión estructural mediante técnicas de compilación Jit",
-            "author": "Redondo López, José Manuel",
+            "author": "Jose Manuel Redondo Lopez",
             "directors": [
                 "Francisco Ortin Soler"
             ]
         },
         "2007-6": {
             "title": "Reconstructores. Mecanismo de recuperabilidad para el mantenimiento de la consistencia de los objetos de dominio en software orientado a objetos",
-            "author": "Fernández Lanvín, Daniel",
+            "author": "Daniel Fernandez Lanvin",
             "directors": [
                 "Aquilino Adolfo Juan Fuente",
                 "Raul Izquierdo Castanedo"
@@ -1012,7 +1012,7 @@
         },
         "2007-7": {
             "title": "Selección de variables en sistemas de aprendizaje automático de preferencias",
-            "author": "Fernandez Bayón, Gustavo",
+            "author": "Gustavo Fernandez Bayon",
             "directors": [
                 "Antonio Bahamonde Rionda",
                 "Jose Ramon Quevedo Perez"
@@ -1020,14 +1020,14 @@
         },
         "2007-8": {
             "title": "Separación dinámica de aspectos independiente del lenguaje y plataforma mediante el uso de reflexión computacional.",
-            "author": "Vinuesa Martinez, Luis Antonio",
+            "author": "Luis Antonio Vinuesa Martinez",
             "directors": [
                 "Francisco Ortin Soler"
             ]
         },
         "2007-9": {
             "title": "Talisman. Desarrollo ágil de software con arquitectura dirigida por modelos.",
-            "author": "Pelayo García Bustelo, Begoña Cristina",
+            "author": "Begona Cristina Pelayo Garcia Bustelo",
             "directors": [
                 "Juan Manuel Cueva Lovelle"
             ]
@@ -1036,49 +1036,49 @@
     "2006": {
         "2006-1": {
             "title": "Adaptación dinámica de persistencia de objetos mediante reflectividad computacional",
-            "author": "Lopez Perez, Benjamin",
+            "author": "Benjamin Lopez Perez",
             "directors": [
                 "Francisco Ortin Soler"
             ]
         },
         "2006-2": {
             "title": "Análisis y propuesta de estrategias de encaminamiento en redes ipv6",
-            "author": "Sobrado Delgado, Igor",
+            "author": "Igor Sobrado Delgado",
             "directors": [
                 "Victor Guillermo Garcia Garcia"
             ]
         },
         "2006-3": {
             "title": "Clasificación de usuarios basada en la detección de errores usando técnicas de procesadores de lenguaje",
-            "author": "Perez Perez, Juan Ramon",
+            "author": "Juan Ramon Perez Perez",
             "directors": [
                 "Juan Manuel Cueva Lovelle"
             ]
         },
         "2006-4": {
             "title": "Integración de datos y procesos en las organizaciones mediante un modelo de datos reorientado a objetos",
-            "author": "Albarracin Ferreira, Jaime Octavio",
+            "author": "Jaime Octavio Albarracin Ferreira",
             "directors": [
                 "Dario Alvarez Gutierrez"
             ]
         },
         "2006-5": {
             "title": "Mejora de casos de prueba en aplicaciones con bases de datos utilizando medidas de cobertura de sentencias sql",
-            "author": "Suarez Cabal, Maria Jose",
+            "author": "Maria Jose Suarez Cabal",
             "directors": [
                 "Pablo Javier Tuya Gonzalez"
             ]
         },
         "2006-6": {
             "title": "Modelo conceptual para la identificación de sistemas",
-            "author": "Sedano Franco, Javier",
+            "author": "Javier Sedano Franco",
             "directors": [
                 "Jose Ramon Villar Flecha"
             ]
         },
         "2006-7": {
             "title": "Modelo de cobertura en redes inalámbricas basado en radiosidad por refinamiento progresivo",
-            "author": "Garcia Fernandez, Nestor",
+            "author": "Nestor Garcia Fernandez",
             "directors": [
                 "Juan Manuel Cueva Lovelle"
             ]
@@ -1087,49 +1087,49 @@
     "2005": {
         "2005-1": {
             "title": "Adquisición, mejora y segmentación de imágenes termográficas en tiempo real",
-            "author": "Usamentiaga Fernández, Rubén",
+            "author": "Ruben Usamentiaga Fernandez",
             "directors": [
                 "Daniel Fernando Garcia Martinez"
             ]
         },
         "2005-2": {
             "title": "Blindlight: una nueva tecnica para procesamiento de texto no estructurado mediante vectores de n-gramas de longitud variable con aplicacion a diversas tareas de tratamiento de lenguaje natural",
-            "author": "Gayo Avello, Daniel",
+            "author": "Daniel Gayo Avello",
             "directors": [
                 "Dario Alvarez Gutierrez"
             ]
         },
         "2005-3": {
             "title": "Desarrollo de un modelo de red con tecnología fftx transmisión de voz y datos",
-            "author": "García Fernández, Roberto",
+            "author": "Roberto Garcia Fernandez",
             "directors": [
                 "Victor Guillermo Garcia Garcia"
             ]
         },
         "2005-4": {
             "title": "Generación automática de pruebas estructurales de software mediante búsqueda tabú",
-            "author": "Díaz Fernández, Eugenia",
+            "author": "Eugenia Diaz Fernandez",
             "directors": [
                 "Pablo Javier Tuya Gonzalez"
             ]
         },
         "2005-5": {
             "title": "Liibus. Arquitectura de sistemas interoperables entre middlewares heterogéneos usando maquinas abstractas reflectivas orientadas a objetos",
-            "author": "Domínguez Mateos, Francisco",
+            "author": "Francisco Dominguez Mateos",
             "directors": [
                 "Juan Manuel Cueva Lovelle"
             ]
         },
         "2005-6": {
             "title": "Meta-especificación y catalogación de patrones de software con lenguajes de dominio específico y modelos de objetos adaptativos: una vía para la gestión del conocimiento en la ingeniería del software",
-            "author": "Welicki, León E.",
+            "author": "Leon E. Welicki",
             "directors": [
                 "Juan Manuel Cueva Lovelle"
             ]
         },
         "2005-7": {
             "title": "metodología de medición y evaluación de la usabilidad de sitios web educativos",
-            "author": "Alva Obeso, María Elena",
+            "author": "Maria Elena Alva Obeso",
             "directors": [
                 "Juan Manuel Cueva Lovelle",
                 "Ana Belen Martinez Prieto"
@@ -1139,21 +1139,21 @@
     "2004": {
         "2004-1": {
             "title": "Análisis, modelado y configuración de servicios de vídeo bajo demanda sobre redes de cable",
-            "author": "García Pañeda, Xicu Xabiel",
+            "author": "Xicu Xabiel Garcia Paneda",
             "directors": [
                 "Victor Guillermo Garcia Garcia"
             ]
         },
         "2004-2": {
             "title": "Obtención automática del entorno en la verificación modular de sistemas reactivos",
-            "author": "Riva Alvarez, Claudio De La",
+            "author": "Claudio A. De La Riva Alvarez",
             "directors": [
                 "Pablo Javier Tuya Gonzalez"
             ]
         },
         "2004-3": {
             "title": "Una arquitectura para sistemas expertos de tiempo real basada en técnicas de planificación dinámica",
-            "author": "Campos López, Antonio Manuel",
+            "author": "Antonio Manuel Campos Lopez",
             "directors": [
                 "Daniel Fernando Garcia Martinez"
             ]
@@ -1162,14 +1162,14 @@
     "2003": {
         "2003-1": {
             "title": "Análisis y estimación de ofertas de generación en el mercado eléctrico español mediante algoritmos genéticos",
-            "author": "De La Cal Marín, Enrique Antonio",
+            "author": "Enrique Antonio De La Cal Marin",
             "directors": [
                 "Luciano Sanchez Ramos"
             ]
         },
         "2003-2": {
             "title": "Aprendizaje de funciones de valoración a partir de ordenaciones",
-            "author": "Díez Peláez, Jorge",
+            "author": "Jorge Diez Pelaez",
             "directors": [
                 "Antonio Bahamonde Rionda",
                 "Juan Jose Del Coz Velasco"
@@ -1177,14 +1177,14 @@
         },
         "2003-3": {
             "title": "Feijoo. Net: la adaptabilidad a los estilos de aprendizaje en los interfaces de usuario web usando el paradigma de la orientación a objetos",
-            "author": "Paule Ruiz, Maria Puerto",
+            "author": "Maria Puerto Paule Ruiz",
             "directors": [
                 "Bernardo Martin Gonzalez Rodriguez"
             ]
         },
         "2003-4": {
             "title": "Modelado de prestaciones de redes de área metropolitana de transmisión de datos, basadas en tecnología híbrida fibra-coaxial",
-            "author": "García Vázquez, Manuel",
+            "author": "Manuel Garcia Vazquez",
             "directors": [
                 "Daniel Fernando Garcia Martinez",
                 "Victor Guillermo Garcia Garcia"
@@ -1192,7 +1192,7 @@
         },
         "2003-5": {
             "title": "Nuevas técnicas de selección de términos en la clasificación documental",
-            "author": "Montañés Roces, Elena",
+            "author": "Elena Montanes Roces",
             "directors": [
                 "Jose Ranilla Pastor",
                 "Susana Irene Diaz Rodriguez"
@@ -1200,14 +1200,14 @@
         },
         "2003-6": {
             "title": "Nuevas técnicas para la clasificación de texturas en color",
-            "author": "Muñiz Sánchez, Rubén",
+            "author": "Ruben Muniz Sanchez",
             "directors": [
                 "Jose Antonio Corrales Gonzalez"
             ]
         },
         "2003-7": {
             "title": "Técnicas estocásticas para el cálculo del tiempo de respuesta en sistemas de tiempo-real",
-            "author": "Díaz De Arriba José Luis",
+            "author": "Diaz De Arriba Jose Luis",
             "directors": [
                 "Daniel Fernando Garcia Martinez"
             ]
@@ -1216,21 +1216,21 @@
     "2002": {
         "2002-1": {
             "title": "Desarrollo y evaluación de técnicas de procesadores de lenguaje para máquinas abstractas orientadas a objetos",
-            "author": "Luengo Díez, María Cándida",
+            "author": "Maria Candida Luengo Diez",
             "directors": [
                 "Juan Manuel Cueva Lovelle"
             ]
         },
         "2002-2": {
             "title": "Dtm- metodología para el diseño de métricas en tiempo real",
-            "author": "Juan Fuente, Aquilino Adolfo",
+            "author": "Aquilino Adolfo Juan Fuente",
             "directors": [
                 "Juan Manuel Cueva Lovelle"
             ]
         },
         "2002-3": {
             "title": "Especificación de sistemas reactivos distribuidos utilizando estelle síncrono",
-            "author": "Riesco Albizu, Miguel",
+            "author": "Miguel Riesco Albizu",
             "directors": [
                 "Pablo Javier Tuya Gonzalez",
                 "Oliverio Gonzalez Alonso"
@@ -1238,35 +1238,35 @@
         },
         "2002-4": {
             "title": "Estudio experimental de sistemas de aprendizaje automático a partir de ejemplos",
-            "author": "Peña Reyes Ana M.",
+            "author": "Pena Reyes Ana M.",
             "directors": [
                 "Antonio Bahamonde Rionda"
             ]
         },
         "2002-5": {
             "title": "Identificación automática de objetivos parciales mediante lógica borrosa y programación genética dirigida por gramática",
-            "author": "García Carbajal, Santiago",
+            "author": "Santiago Garcia Carbajal",
             "directors": [
                 "Luciano Sanchez Ramos"
             ]
         },
         "2002-6": {
             "title": "RDM: arquitectura software para el modelado de dominios en sistemas informáticos",
-            "author": "Izquierdo Castanedo, Raúl",
+            "author": "Raul Izquierdo Castanedo",
             "directors": [
                 "Juan Manuel Cueva Lovelle"
             ]
         },
         "2002-7": {
             "title": "Sistema Computacional de Programación Flexible diseñado sobre una Máquina Abstracta Reflectiva No Restrictiva",
-            "author": "Ortín Soler, Francisco",
+            "author": "Francisco Ortin Soler",
             "directors": [
                 "Juan Manuel Cueva Lovelle"
             ]
         },
         "2002-8": {
             "title": "Sistema de verificación de componentes software",
-            "author": "Cernuda Del Río, Agustín",
+            "author": "Agustin Cernuda Del Rio",
             "directors": [
                 "Juan Manuel Cueva Lovelle"
             ]
@@ -1275,14 +1275,14 @@
     "2001": {
         "2001-1": {
             "title": "Análisis de planificabilidad basado en utilizaciones, de sistemas de tiempo real implementados sobre multiprocesadores con técnicas de particionado",
-            "author": "López López, José M.",
+            "author": "Jose M. Lopez Lopez",
             "directors": [
                 "Daniel Fernando Garcia Martinez"
             ]
         },
         "2001-2": {
             "title": "Cálculo de deducciones en paralelo en un sistema multiprocesador",
-            "author": "Puente Peinador, Jorge",
+            "author": "Jorge Puente Peinador",
             "directors": [
                 "Jose Ramiro Varela Arias",
                 "Maria Del Camino Rodriguez Vela"
@@ -1290,35 +1290,35 @@
         },
         "2001-3": {
             "title": "Desarrollo modular de procesadores de lenguajes a partir de especificaciones semánticas reutilizables",
-            "author": "Labra Gayo, José Emilio",
+            "author": "Jose Emilio Labra Gayo",
             "directors": [
                 "Juan Manuel Cueva Lovelle"
             ]
         },
         "2001-4": {
             "title": "GADEA: Sistema de Gestión de Interfaces de Usuario Autoadaptables basado en Componentes, Tecnología de Objetos y Agentes",
-            "author": "González Rodríguez, Bernardo Martín",
+            "author": "Bernardo Martin Gonzalez Rodriguez",
             "directors": [
                 "Juan Manuel Cueva Lovelle"
             ]
         },
         "2001-5": {
             "title": "Sistema de gestión de interfaces de usuario auto-adaptables basado en componentes, tecnología de objetivos y agentes analizadores de patrones de comportamiento",
-            "author": "González Rodríguez, Bernardo Martín",
+            "author": "Bernardo Martin Gonzalez Rodriguez",
             "directors": [
                 "Juan Manuel Cueva Lovelle"
             ]
         },
         "2001-6": {
             "title": "Un algoritmo robusto para el cálculo del flujo óptico",
-            "author": "Otero Rodríguez, José",
+            "author": "Jose Otero Rodriguez",
             "directors": [
                 "Luciano Sanchez Ramos"
             ]
         },
         "2001-7": {
             "title": "Un sistema de gestión de bases de datos orientadas a objetos sobre una máquina abstracta persistente",
-            "author": "Martínez Prieto, Ana Belén",
+            "author": "Ana Belen Martinez Prieto",
             "directors": [
                 "Juan Manuel Cueva Lovelle"
             ]
@@ -1327,42 +1327,42 @@
     "2000": {
         "2000-1": {
             "title": "Agra: sistema de distribución de objetos para un sistema distribuido orientado a objetos soportado por una máquina abstracta",
-            "author": "Álvarez García, Fernando",
+            "author": "Fernando Alvarez Garcia",
             "directors": [
                 "Juan Manuel Cueva Lovelle"
             ]
         },
         "2000-2": {
             "title": "Bets. Sistema de aprendizaje basado en la selección de ejemplos paradigmáticos",
-            "author": "Coz Velasco, Juan José Del",
+            "author": "Juan Jose Del Coz Velasco",
             "directors": [
                 "Antonio Bahamonde Rionda"
             ]
         },
         "2000-3": {
             "title": "Modelo de computación concurrente para un sistema operativo orientado a objetos basado en una máquina abstracta",
-            "author": "Tajes Martínez, Lourdes",
+            "author": "Lourdes Tajes Martinez",
             "directors": [
                 "Juan Manuel Cueva Lovelle"
             ]
         },
         "2000-4": {
             "title": "Núcleo de seguridad para un sistema operativo orientado a objetos soportado por una máquina abstracta",
-            "author": "Díaz Fondón, María Ángeles",
+            "author": "Maria Angeles Diaz Fondon",
             "directors": [
                 "Juan Manuel Cueva Lovelle"
             ]
         },
         "2000-5": {
             "title": "Safe: sistema de aprendizaje de funciones a partir de ejemplos",
-            "author": "Quevedo Pérez, José Ramón",
+            "author": "Jose Ramon Quevedo Perez",
             "directors": [
                 "Antonio Bahamonde Rionda"
             ]
         },
         "2000-6": {
             "title": "Sahara: arquitectura de seguridad integral para sistemas de agentes móviles basados en java",
-            "author": "Pérez Díaz, Jesús Arturo",
+            "author": "Jesus Arturo Perez Diaz",
             "directors": [
                 "Juan Manuel Cueva Lovelle"
             ]
@@ -1371,28 +1371,28 @@
     "1999": {
         "1999-1": {
             "title": "Identificación de sistemas con dinámica caótica a partir de series con ruido mediante algoritmos GA-P",
-            "author": "Fernández Martínez, Ana Isabel",
+            "author": "Ana Isabel Fernandez Martinez",
             "directors": [
                 "Luciano Sanchez Ramos"
             ]
         },
         "1999-2": {
             "title": "Medición y visualización del comportamiento de aplicaciones paralelas industriales",
-            "author": "Garcia Martinez, Javier",
+            "author": "Javier Garcia Martinez",
             "directors": [
                 "Daniel Fernando Garcia Martinez"
             ]
         },
         "1999-3": {
             "title": "Sistema integrado de información geográfica mediante tecnologías de objetos distribuidos",
-            "author": "Pérez Castillo, José Nelson",
+            "author": "Jose Nelson Perez Castillo",
             "directors": [
                 "Juan Manuel Cueva Lovelle"
             ]
         },
         "1999-4": {
             "title": "Un sistema de aprendizaje de reglas explícitas mediante la generalización de instancias",
-            "author": "Luaces Rodríguez, Óscar",
+            "author": "Oscar Luaces Rodriguez",
             "directors": [
                 "Antonio Bahamonde Rionda"
             ]
@@ -1401,28 +1401,28 @@
     "1998": {
         "1998-1": {
             "title": "Abanico: aprendizaje basado en la agrupación numérica en intervalos continuos",
-            "author": "Ranilla Pastor, José",
+            "author": "Jose Ranilla Pastor",
             "directors": [
                 "Antonio Bahamonde Rionda"
             ]
         },
         "1998-2": {
             "title": "Diseño y evaluación de una metodología de análisis de comportamiento de sistemas de tiempo real, implementados sobre arquitecturas paralelas de memoria distribuida",
-            "author": "Suarez Alonso Francisco Jose",
+            "author": "Francisco Jose Suarez Alonso",
             "directors": [
                 "Daniel Fernando Garcia Martinez"
             ]
         },
         "1998-3": {
             "title": "Metodología de ingeniería de software para objetos distribuidos y tiempo real en arquitecturas cliente/servidor e internet/intranet",
-            "author": "Joyanes Aguilar, Luis",
+            "author": "Luis Joyanes Aguilar",
             "directors": [
                 "Juan Manuel Cueva Lovelle"
             ]
         },
         "1998-4": {
             "title": "Persistencia completa para un sistema operativo orientado a objetos usando una máquina abstracta con arquitectura reflectiva",
-            "author": "Álvarez Gutiérrez, Darío",
+            "author": "Dario Alvarez Gutierrez",
             "directors": [
                 "Juan Manuel Cueva Lovelle"
             ]
@@ -1431,28 +1431,28 @@
     "1997": {
         "1997-1": {
             "title": "Algoritmos para el tratamiento de reglas aprendidas a partir de ejemplos",
-            "author": "Alguero García, Alfredo Santiago",
+            "author": "Alfredo Santiago Alguero Garcia",
             "directors": [
                 "Antonio Bahamonde Rionda"
             ]
         },
         "1997-2": {
             "title": "Análisis de componentes principales no lineales mediante redes neuronales artificiales de propagación hacia atrás: aplicaciones del modelo Kramer",
-            "author": "López Fandiño, Víctor M.",
+            "author": "Victor M. Lopez Fandino",
             "directors": [
                 "Vicente Garcia Diaz"
             ]
         },
         "1997-3": {
             "title": "Diseño asistido por ordenador de redes de teledistribución",
-            "author": "Alonso Requejo, Melchor",
+            "author": "Melchor Alonso Requejo",
             "directors": [
                 "Juan Manuel Cueva Lovelle"
             ]
         },
         "1997-4": {
             "title": "Estimación de las colas en el tráfico. Un modelo de problemas virtuales",
-            "author": "Hernández Arauzo, Pedro",
+            "author": "Pedro Hernandez Arauzo",
             "directors": [
                 "Antonio Bahamonde Rionda"
             ]
@@ -1461,7 +1461,7 @@
     "1996": {
         "1996-1": {
             "title": "Un modelo para el cálculo paralelo de deducciones en lógica de predicados",
-            "author": "Varela Arias, José Ramiro",
+            "author": "Jose Ramiro Varela Arias",
             "directors": [
                 "Maria Del Camino Rodriguez Vela",
                 "Antonio Bahamonde Rionda"
@@ -1471,7 +1471,7 @@
     "1995": {
         "1995-1": {
             "title": "Especificación y verificación de sistemas reactivos utilizando métodos estructurados y lógica temporal",
-            "author": "Tuya Gonzalez Pablo Javier",
+            "author": "Pablo Javier Tuya Gonzalez",
             "directors": [
                 "Jose Antonio Corrales Gonzalez"
             ]
@@ -1480,7 +1480,7 @@
     "1994": {
         "1994-1": {
             "title": "Control difuso de procesos industriales mediante una arquitectura paralela y distribuida, tipo red neuronal",
-            "author": "Sánchez Ramos, Luciano",
+            "author": "Luciano Sanchez Ramos",
             "directors": [
                 "Jose Antonio Corrales Gonzalez"
             ]
@@ -1489,21 +1489,21 @@
     "1993": {
         "1993-1": {
             "title": "Diseño e implementación de sistemas de control distribuido de pequeña y mediana escala por agregación de elementos independientes",
-            "author": "Fernandez Sarasola, Armando",
+            "author": "Armando Fernandez Sarasola",
             "directors": [
                 "Daniel Fernando Garcia Martinez"
             ]
         },
         "1993-2": {
             "title": "Modelización de un sistema operativo multipropósito: especificación formal en estelle",
-            "author": "González Alonso, Oliverio",
+            "author": "Oliverio Gonzalez Alonso",
             "directors": [
                 "Victor Guillermo Garcia Garcia"
             ]
         },
         "1993-3": {
             "title": "Shape. Sistema heurístico de aprendizaje a partir de ejemplos",
-            "author": "Botana Ferreiro, Francisco",
+            "author": "Francisco Botana Ferreiro",
             "directors": [
                 "Antonio Bahamonde Rionda"
             ]
@@ -1512,7 +1512,7 @@
     "1992": {
         "1992-1": {
             "title": "Integración de bases de datos relacionales en sistemas distribuidos de supervisión y control de procesos",
-            "author": "Sánchez Mateos, Felipe",
+            "author": "Felipe Sanchez Mateos",
             "directors": [
                 "Daniel Fernando Garcia Martinez"
             ]
@@ -1521,7 +1521,7 @@
     "1990": {
         "1990-1": {
             "title": "Optimización de autómatas finitos",
-            "author": "Rodríguez Vela, María Camino",
+            "author": "Maria Del Camino Rodriguez Vela",
             "directors": [
                 "Antonio Bahamonde Rionda"
             ]

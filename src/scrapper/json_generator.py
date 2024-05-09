@@ -1,6 +1,7 @@
 import json
 
-from .button_click import click_button
+from .clean_data import clean_data
+from .click_button import click_button
 from .config import init_driver, set_driver_options
 from .extract_data import extract_data
 
@@ -16,10 +17,10 @@ def save_thesis_json():
     click_button(driver)
 
     data = extract_data(driver)
+    data = clean_data(data)
 
     # guardamos el json
     with open("thesis.json", "w", encoding="utf-8") as file:
-        # ensure_ascii=False para que procese bien los acentos
         file.write(json.dumps(data, indent=4, ensure_ascii=False))
 
     print("[i] json exportado correctamente")

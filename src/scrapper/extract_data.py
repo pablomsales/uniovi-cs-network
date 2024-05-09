@@ -1,6 +1,16 @@
 from time import sleep
 
 from selenium.webdriver.common.by import By
+from unidecode import unidecode
+
+
+def clean_names(name):
+    # eliminamos acentos
+    name = unidecode(name)
+    # dividimos el nombre si tiene coma y le damos la vuelta
+    if "," in name:
+        name = name.split(",")
+        name.reverse()
 
 
 def extract_data(driver):
@@ -40,7 +50,7 @@ def extract_data(driver):
 
             # obtenemos texto
             title = title.text
-            author = author.text.title()
+            author = author.text
             directors = directors.text.lower()
 
             # limpiamos el texto de los directores
