@@ -4,7 +4,7 @@ import networkx as nx
 from community import community_louvain
 
 from graph import plot_interactive_graphs, plot_static_graphs
-from graph.graph_and_metrics import get_DiGraph, get_graph, get_relations
+from graph.graph_maker import get_DiGraph, get_graph, get_relations
 from scrapper.json_generator import load_thesis_json, save_thesis_json
 
 
