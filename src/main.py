@@ -75,7 +75,7 @@ def save_metric(metric_list, is_digraph: bool, filename):
 
     with open(output_file, "w") as f:
         for node, metric_value in metric_list:
-            f.write(f"{node}: {str(round(metric_value, 6))}\n")
+            f.write(f"{node}: {str(metric_value)}\n")
 
 
 def get_betweenness(graph, is_digraph: bool, filename):
