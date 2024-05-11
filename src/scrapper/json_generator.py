@@ -6,7 +6,7 @@ from .config import init_driver, set_driver_options
 from .extract_data import extract_data
 
 
-def save_thesis_json():
+def save_thesis_json(filename):
     # path to chromedriver
     chromedriver_path = "/usr/bin/chromedriver"
 
@@ -20,7 +20,7 @@ def save_thesis_json():
     data = clean_data(data)
 
     # guardamos el json
-    with open("thesis.json", "w", encoding="utf-8") as file:
+    with open(filename, "w", encoding="utf-8") as file:
         file.write(json.dumps(data, indent=4, ensure_ascii=False))
 
     print("[i] json exportado correctamente")

@@ -1,0 +1,219 @@
+Luciano Sanchez Ramos: 0.214539
+Pablo Javier Tuya Gonzalez: 0.19042
+Jose Antonio Corrales Gonzalez: 0.177948
+Jose Ranilla Pastor: 0.162488
+Alberto Cocana Fernandez: 0.152708
+Antonio Bahamonde Rionda: 0.131985
+Juan Manuel Cueva Lovelle: 0.124339
+Ruben Casado Tejedor: 0.090538
+Ruben Usamentiaga Fernandez: 0.089249
+Alberto Fernandez Villan: 0.088255
+Victor Guillermo Garcia Garcia: 0.08593
+Daniel Fernando Garcia Martinez: 0.081343
+Miguel Riesco Albizu: 0.067645
+Oliverio Gonzalez Alonso: 0.065848
+Elena Montanes Roces: 0.052192
+Susana Irene Diaz Rodriguez: 0.041348
+Francisco Ortin Soler: 0.03184
+Enrique Antonio De La Cal Marin: 0.031032
+Xicu Xabiel Garcia Paneda: 0.029186
+Roberto Garcia Fernandez: 0.026762
+Oscar Sanjuan Martinez: 0.023473
+Maria Del Camino Rodriguez Vela: 0.023443
+Jose Ramiro Varela Arias: 0.023422
+Bernardo Martin Gonzalez Rodriguez: 0.023266
+Manuel Garcia Vazquez: 0.022471
+Jose Emilio Labra Gayo: 0.019934
+Paula Maria Vergara Garcia: 0.015727
+Vicente Garcia Diaz: 0.014844
+Oscar Luaces Rodriguez: 0.013064
+Juan Jose Del Coz Velasco: 0.012895
+Edward Rolando Nunez Valdez: 0.011213
+Maria Puerto Paule Ruiz: 0.011026
+Javier Garcia Martinez: 0.010612
+Julio Molleda Mere: 0.010612
+Jose Ramon Villar Flecha: 0.010612
+David Melendi Palacio: 0.010344
+Jordan Pascual Espada: 0.009268
+Francisco Jose Suarez Alonso: 0.007948
+Ana Maria Palacios Jimenez: 0.007864
+Jorge Diez Pelaez: 0.007843
+Carlos E. Montenegro Marin: 0.007352
+Jose Maria Alvarez Rodriguez: 0.006891
+Dario Alvarez Gutierrez: 0.006574
+Raul Izquierdo Castanedo: 0.006235
+Juan Ramon Perez Perez: 0.006219
+Aquilino Adolfo Juan Fuente: 0.005541
+Jose Ramon Quevedo Perez: 0.005482
+Ramon Medrano Llamas: 0.005327
+Juan Jose Palacios Alonso: 0.005327
+Enrique Juan De Andres Galiana: 0.005327
+Ruben Zurita Hevia: 0.005327
+Raul Perez Fernandez: 0.005327
+Raquel Blanco Aguirre: 0.005327
+Manuel Enrique Fernandez Garcia: 0.005327
+Pelayo Quiros Cueto: 0.005327
+Benjamin Lopez Perez: 0.003932
+Begona Cristina Pelayo Garcia Bustelo: 0.003576
+Yuri Vanessa Nieto Acevedo: 0.003467
+Ursula Sandra Rivera Cueva: 0.003467
+Miguel Sanchez Santillan: 0.003467
+Angel Francisco Del Rio Alvarez: 0.003467
+Daniel Fernandez Lanvin: 0.003281
+Juan Carlos Granda Candas: 0.002621
+Alvaro Martinez Gomez: 0.002621
+Moises Riestra Gonzalez: 0.001987
+Laura Pozueco Alvarez: 0.001515
+Alberto Alvarez Gonzalez: 0.001501
+Abel Rionda Rodriguez: 0.001268
+Alejandro Garcia Tuero: 0.001268
+Alberto Manuel Fernandez Alvarez: 0.000954
+Giovanny Mauricio Bermudez Tarazona: 0.000701
+Laura Fernandez Diaz: 0.000564
+Miriam Fernandez Diaz: 0.000564
+Beatriz Pariente Martinez: 0.000433
+Chaudhry Muhammad Nadeem Faisal: 0.000433
+Gabriel Diaz Orueta: 0.00043
+Guillermo Infante Hernandez: 0.000381
+David Cabielles Hernandez: 0.000381
+Guillermo Cueva Fernandez: 0.000299
+Daniel Fernandez Alvarez: 0.000275
+Fernando Enrique Lopez Martinez: 0.000258
+Victor Manuel Mondragon Maca: 0.000258
+Maria Teresa Gonzalez Aparicio: 0.000254
+Manuel Vilas Paz: 0.000254
+Pablo Perez Gallego: 0.000211
+Pablo Perez Nunez: 0.000148
+Alejandro Rodriguez Gonzalez: 0.000127
+Daniel Gayo Avello: 8.5e-05
+Ines Couso Blanco: 6.3e-05
+Ruben Aristides Gonzalez Crespo: 6.3e-05
+Jose Antonio Sanchez Sanchez: 6.3e-05
+Ignacio Gonzalez Alonso: 4.2e-05
+Maria Rita Sierra Sanchez: 2.1e-05
+Ana Belen Martinez Prieto: 2.1e-05
+Claudio A. De La Riva Alvarez: 2.1e-05
+Oscar Diaz Pedrayes: 0.0
+Luis Omar Colombo Mendoza: 0.0
+Gandhi Samuel Hernandez Chan: 0.0
+Ruben Muniz Sanchez: 0.0
+Jose Quiroga Alvarez: 0.0
+Luis Antonio Vinuesa Martinez: 0.0
+Miguel Angel Gonzalez Fernandez: 0.0
+Jose M. Lopez Lopez: 0.0
+Armando Fernandez Sarasola: 0.0
+Secundino Gonzalez Perez: 0.0
+Carlos Mencia Cascallana: 0.0
+Francisco Dominguez Mateos: 0.0
+Oscar Rodriguez Prieto: 0.0
+Maria Del Carmen Suarez Torrente: 0.0
+Carlos Eiras Franco: 0.0
+Jose Barranquero Tolosa: 0.0
+Santiago Garcia Carbajal: 0.0
+Jesus Arturo Perez Diaz: 0.0
+Maria Elena Rodriguez Vazquez: 0.0
+Teobaldo Hernan Sagastegui Chigne: 0.0
+Jose Otero Rodriguez: 0.0
+Jose Manuel Felix Rodriguez: 0.0
+Gustavo Fernandez Bayon: 0.0
+Rodolfo De Benito Arango: 0.0
+Gerardo Lagunes Garcia: 0.0
+Jose Alberto Benitez Andrades: 0.0
+Miguel Garcia Rodriguez: 0.0
+Francisco Javier De La Calle Herrero: 0.0
+Pablo Suarez Otero Gonzalez: 0.0
+Victor M. Lopez Fandino: 0.0
+Holman Diego Bolivar Baron: 0.0
+Raul Mencia Cascallana: 0.0
+Cristian Gonzalez Garcia: 0.0
+Manuel Quintela Pumares: 0.0
+Gustavo Millan Garcia: 0.0
+Adolfo Otero Rodriguez: 0.0
+Juan Luis Fernandez Martinez: 0.0
+Dario Gonzalez Lema: 0.0
+Melchor Alonso Requejo: 0.0
+Jenny Alexandra Triana Casallas: 0.0
+Maria Elena Alva Obeso: 0.0
+Felipe Sanchez Mateos: 0.0
+Pena Reyes Ana M.: 0.0
+Leon E. Welicki: 0.0
+Hugo Ramiro Zaldana Bustamante: 0.0
+Jose Garcia Fanjul: 0.0
+Herminio Garcia Gonzalez: 0.0
+Sergio Cabrero Barros: 0.0
+Maria Angeles Diaz Fondon: 0.0
+Luz Andrea Rodriguez Rojas: 0.0
+Andres Garcia Mangas: 0.0
+Carlos Enrique Montenegro Marin: 0.0
+Javier Escalada Gomez: 0.0
+Luis Perez Castano: 0.0
+Jaime Solis Martinez: 0.0
+Francisco Javier Gil Gala: 0.0
+Noemi Linares Perez: 0.0
+Rebeca Cerezo Menendez: 0.0
+Jose Manuel Redondo Lopez: 0.0
+Ana Isabel Fernandez Martinez: 0.0
+Carlos Fernandez Medina: 0.0
+Francisco Gonzalez Bulnes: 0.0
+Jorge Puente Peinador: 0.0
+Francisco Botana Ferreiro: 0.0
+Pedro Manso Bernal: 0.0
+Yuviny Echevarria Cartaya: 0.0
+Nahuel Alejandro Costa Cortez: 0.0
+Agustin Cernuda Del Rio: 0.0
+Fernando Alvarez Garcia: 0.0
+Adela Isabel Carrillo Gomez: 0.0
+Pablo Cienfuegos Suarez: 0.0
+Pablo Gonzalez Gonzalez: 0.0
+Lourdes Tajes Martinez: 0.0
+Jesus Moran Barbon: 0.0
+Eugenia Diaz Fernandez: 0.0
+Victor Manuel Alvarez Garcia: 0.0
+Alvaro Fernandez Millara: 0.0
+Alejandro Vera Baquero: 0.0
+Pelayo Nuno Huergo: 0.0
+Luis Antonio Junco Navascues: 0.0
+Aurora Barrero Lopez: 0.0
+Pedro Hernandez Arauzo: 0.0
+Jose Fernando Lopez Quintero: 0.0
+Igor Sobrado Delgado: 0.0
+Marcos Palacios Gutierrez: 0.0
+Daniel Meana Llorian: 0.0
+Jose Emilio Gaiad: 0.0
+Daniel Ibaseta Rodriguez: 0.0
+Javier Sedano Franco: 0.0
+Francisco Gayo Lopez: 0.0
+Susana Montes Rodriguez: 0.0
+Jorge Garcia Alvarez: 0.0
+Roy Arturo Mendieta Zuniga: 0.0
+Jorge Rodriguez Perez: 0.0
+Ines Gonzalez Rodriguez: 0.0
+Jose Nelson Perez Castillo: 0.0
+Luis Joyanes Aguilar: 0.0
+Griselda Rita Romina Bobeda: 0.0
+Raquel Quiroga Garcia: 0.0
+Maria Rodriguez Fernandez: 0.0
+Cesar Fernandez Acebal: 0.0
+Alfredo Santiago Alguero Garcia: 0.0
+Joaquin Entrialgo Castano: 0.0
+Krzysztof Trawinski: 0.0
+Alberto Arias Maestro: 0.0
+Maria Jose Suarez Cabal: 0.0
+Nestor Garcia Fernandez: 0.0
+Pedro Alonso Velazquez: 0.0
+Jaime Alonso Gonzalez: 0.0
+Deiner Mena Waldo: 0.0
+Antonio Manuel Campos Lopez: 0.0
+Diaz De Arriba Jose Luis: 0.0
+Maria Del Rosario Suarez Fernandez: 0.0
+Pablo Venegas Bosom: 0.0
+Javier De Andres Suarez: 0.0
+Jaime Octavio Albarracin Ferreira: 0.0
+Jorge Luis Parrondo Gayo: 0.0
+Belarmino Adenso Diaz Fernandez: 0.0
+Carlos Luis Menendez Gonzalez: 0.0
+Maria Del Pilar Almudena Garcia Fuente: 0.0
+Silvia Gonzalez Gonzalez: 0.0
+Noelia Rico Pachon: 0.0
+Maria Candida Luengo Diez: 0.0
+Jose Ignacio Rodriguez Molano: 0.0
