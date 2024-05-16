@@ -5,6 +5,19 @@ from selenium.webdriver.common.by import By
 
 
 def click_button(driver):
+    """
+    Haz clic en el botón 'See more' hasta que ya no exista.
+
+    Params:
+    -------
+    driver : WebDriver
+        El controlador WebDriver para interactuar con la página web.
+
+    Returns:
+    --------
+    None
+    """
+
     # Clickamos sobre el botón 'See more' hasta que ya no existe
     remaining_data = True
     while remaining_data:
@@ -14,6 +27,6 @@ def click_button(driver):
             sleep(1)
         except NoSuchElementException:
             print(
-                "[i] Se ha terminado de clickear el botón 'See more...'. También puede ser que no exista! Asegúrate"
+                "[INFO] Se ha completado el proceso de clic en el botón 'See more'. Es posible que el botón ya no exista."
             )
             break

@@ -10,7 +10,6 @@ def plot_graph(graph, filename):
     pos = nx.spring_layout(graph, seed=12, k=0.1)
     nx.draw(graph, pos=pos, with_labels=True, width=0.5, node_size=100, font_size=4)
     plt.axis("equal")
-    plt.show()
 
     fig.savefig(os.path.join("outputs", "static", filename))
 

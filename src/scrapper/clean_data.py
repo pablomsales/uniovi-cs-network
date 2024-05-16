@@ -1,7 +1,26 @@
+from typing import Dict
+
 from unidecode import unidecode
 
 
-def unify_duplicated_names(name1, name2):
+def unify_duplicated_names(name1: str, name2: str) -> str:
+    """
+    Unifica dos nombres potencialmente duplicados.
+
+    Params:
+    -------
+    name1 : str
+        El primer nombre a ser unificado.
+
+    name2 : str
+        El segundo nombre a ser unificado.
+
+    Returns:
+    --------
+    str
+        El nombre unificado, preferentemente seleccionando el más completo y normalizado.
+    """
+
     # quitamos acentos y pasamos a minusculas
     name1 = unidecode(name1.lower())
     name2 = unidecode(name2.lower())
@@ -30,7 +49,23 @@ def unify_duplicated_names(name1, name2):
         return name2
 
 
-def clean_data(data):
+def clean_data(
+    data: Dict[str, Dict[str, Dict[str, str]]]
+) -> Dict[str, Dict[str, Dict[str, str]]]:
+    """
+    Limpia los datos de tesis, normalizando los nombres de autores y directores.
+
+    Params:
+    -------
+    data : Dict[str, Dict[str, Dict[str, str]]]
+        Un diccionario que contiene la información de las tesis, organizada por año y ID.
+
+    Returns:
+    --------
+    Dict[str, Dict[str, Dict[str, str]]]
+        Un diccionario con los datos limpios, donde los nombres de autores y directores están normalizados y unificados.
+    """
+
     # obtenemos un conjunto con los nombres únicos de directores de tesis
     directors_names_set = set()
 

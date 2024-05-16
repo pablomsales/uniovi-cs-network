@@ -1,10 +1,28 @@
 from time import sleep
+from typing import Dict
 
 from selenium.webdriver.common.by import By
+from selenium.webdriver.remote.webdriver import WebDriver
 from unidecode import unidecode
 
 
-def extract_data(driver):
+def extract_data(driver: WebDriver) -> Dict[str, Dict[str, Dict[str, str]]]:
+    """
+    Extrae datos de las tesis de una página web.
+
+    Params:
+    -------
+    driver : WebDriver
+        El controlador WebDriver para interactuar con la página web.
+
+    Returns:
+    --------
+    Dict[str, Dict[str, Dict[str, str]]]
+        Un diccionario que contiene la información de las tesis, organizada por año y ID.
+        El primer nivel de claves corresponde a los años, el segundo nivel corresponde a los IDs de las tesis,
+        y el tercer nivel corresponde a los atributos de cada tesis (title, author, directors).
+    """
+
     # obtenemos los contenedores de cada año
     years_containers = driver.find_elements(
         By.XPATH, '//div[@class="unidad-docs__grupo agrupador-anualidad"]'
