@@ -1,0 +1,219 @@
+Juan Manuel Cueva Lovelle: 0.1651376146788991
+Daniel Fernando Garcia Martinez: 0.08256880733944955
+Antonio Bahamonde Rionda: 0.06422018348623854
+Luciano Sanchez Ramos: 0.05963302752293578
+Pablo Javier Tuya Gonzalez: 0.045871559633027525
+Oscar Sanjuan Martinez: 0.045871559633027525
+Ruben Usamentiaga Fernandez: 0.04128440366972477
+Francisco Ortin Soler: 0.04128440366972477
+Susana Irene Diaz Rodriguez: 0.03211009174311927
+Xicu Xabiel Garcia Paneda: 0.03211009174311927
+Roberto Garcia Fernandez: 0.027522935779816515
+Vicente Garcia Diaz: 0.027522935779816515
+Victor Guillermo Garcia Garcia: 0.027522935779816515
+Juan Jose Del Coz Velasco: 0.022935779816513763
+Jose Ramiro Varela Arias: 0.022935779816513763
+Jose Emilio Labra Gayo: 0.022935779816513763
+Maria Del Camino Rodriguez Vela: 0.022935779816513763
+Bernardo Martin Gonzalez Rodriguez: 0.01834862385321101
+Gabriel Diaz Orueta: 0.01834862385321101
+Jose Antonio Corrales Gonzalez: 0.01834862385321101
+Begona Cristina Pelayo Garcia Bustelo: 0.01834862385321101
+Daniel Fernandez Lanvin: 0.01834862385321101
+Maria Puerto Paule Ruiz: 0.01834862385321101
+Jose Ramon Quevedo Perez: 0.01834862385321101
+Jose Ramon Villar Flecha: 0.013761467889908258
+Jorge Diez Pelaez: 0.013761467889908258
+Alejandro Rodriguez Gonzalez: 0.013761467889908258
+Ruben Aristides Gonzalez Crespo: 0.013761467889908258
+Francisco Jose Suarez Alonso: 0.013761467889908258
+Ines Couso Blanco: 0.013761467889908258
+Javier Garcia Martinez: 0.009174311926605505
+Oscar Luaces Rodriguez: 0.009174311926605505
+Enrique Antonio De La Cal Marin: 0.009174311926605505
+Juan Ramon Perez Perez: 0.009174311926605505
+Claudio A. De La Riva Alvarez: 0.009174311926605505
+Edward Rolando Nunez Valdez: 0.009174311926605505
+Raul Izquierdo Castanedo: 0.009174311926605505
+Julio Molleda Mere: 0.009174311926605505
+Maria Rita Sierra Sanchez: 0.009174311926605505
+Jose Ranilla Pastor: 0.009174311926605505
+Jose Maria Alvarez Rodriguez: 0.009174311926605505
+Elena Montanes Roces: 0.009174311926605505
+Aquilino Adolfo Juan Fuente: 0.009174311926605505
+Benjamin Lopez Perez: 0.009174311926605505
+Dario Alvarez Gutierrez: 0.009174311926605505
+David Melendi Palacio: 0.009174311926605505
+Ana Belen Martinez Prieto: 0.009174311926605505
+Ignacio Gonzalez Alonso: 0.0045871559633027525
+Laura Pozueco Alvarez: 0.0045871559633027525
+Ana Maria Palacios Jimenez: 0.0045871559633027525
+Pablo Cienfuegos Suarez: 0.0045871559633027525
+Ruben Casado Tejedor: 0.0045871559633027525
+Jordan Pascual Espada: 0.0045871559633027525
+Juan Carlos Granda Candas: 0.0045871559633027525
+Alberto Manuel Fernandez Alvarez: 0.0045871559633027525
+Jose Otero Rodriguez: 0.0045871559633027525
+Joaquin Entrialgo Castano: 0.0045871559633027525
+Daniel Gayo Avello: 0.0045871559633027525
+Ines Gonzalez Rodriguez: 0.0045871559633027525
+Miguel Angel Gonzalez Fernandez: 0.0045871559633027525
+Oliverio Gonzalez Alonso: 0.0045871559633027525
+Javier De Andres Suarez: 0.0045871559633027525
+Maria Del Pilar Almudena Garcia Fuente: 0.0045871559633027525
+Carlos Enrique Montenegro Marin: 0.0045871559633027525
+Pedro Alonso Velazquez: 0.0045871559633027525
+Belarmino Adenso Diaz Fernandez: 0.0045871559633027525
+Susana Montes Rodriguez: 0.0045871559633027525
+Juan Luis Fernandez Martinez: 0.0045871559633027525
+Jorge Luis Parrondo Gayo: 0.0045871559633027525
+Raquel Quiroga Garcia: 0.0045871559633027525
+Rebeca Cerezo Menendez: 0.0045871559633027525
+Francisco Javier De La Calle Herrero: 0.0
+Silvia Gonzalez Gonzalez: 0.0
+Alberto Fernandez Villan: 0.0
+Jose Barranquero Tolosa: 0.0
+Maria Elena Rodriguez Vazquez: 0.0
+Maria Candida Luengo Diez: 0.0
+Pablo Gonzalez Gonzalez: 0.0
+Maria Rodriguez Fernandez: 0.0
+Jose Garcia Fanjul: 0.0
+Jose Fernando Lopez Quintero: 0.0
+Alberto Alvarez Gonzalez: 0.0
+Krzysztof Trawinski: 0.0
+Gerardo Lagunes Garcia: 0.0
+Jaime Solis Martinez: 0.0
+Jose Antonio Sanchez Sanchez: 0.0
+Ramon Medrano Llamas: 0.0
+Fernando Alvarez Garcia: 0.0
+Maria Teresa Gonzalez Aparicio: 0.0
+Moises Riestra Gonzalez: 0.0
+Dario Gonzalez Lema: 0.0
+Maria Angeles Diaz Fondon: 0.0
+Enrique Juan De Andres Galiana: 0.0
+Hugo Ramiro Zaldana Bustamante: 0.0
+Carlos Eiras Franco: 0.0
+Luis Omar Colombo Mendoza: 0.0
+Holman Diego Bolivar Baron: 0.0
+Jose Nelson Perez Castillo: 0.0
+Cesar Fernandez Acebal: 0.0
+Pablo Perez Nunez: 0.0
+Manuel Vilas Paz: 0.0
+Ursula Sandra Rivera Cueva: 0.0
+Francisco Gonzalez Bulnes: 0.0
+Paula Maria Vergara Garcia: 0.0
+Carlos Fernandez Medina: 0.0
+Daniel Meana Llorian: 0.0
+Giovanny Mauricio Bermudez Tarazona: 0.0
+Chaudhry Muhammad Nadeem Faisal: 0.0
+Jose Ignacio Rodriguez Molano: 0.0
+Jaime Alonso Gonzalez: 0.0
+Javier Sedano Franco: 0.0
+Herminio Garcia Gonzalez: 0.0
+Oscar Rodriguez Prieto: 0.0
+Alberto Cocana Fernandez: 0.0
+Victor M. Lopez Fandino: 0.0
+Fernando Enrique Lopez Martinez: 0.0
+Daniel Fernandez Alvarez: 0.0
+Pablo Venegas Bosom: 0.0
+Carlos Mencia Cascallana: 0.0
+Raul Perez Fernandez: 0.0
+Alfredo Santiago Alguero Garcia: 0.0
+Miguel Garcia Rodriguez: 0.0
+Gandhi Samuel Hernandez Chan: 0.0
+Jorge Puente Peinador: 0.0
+Guillermo Cueva Fernandez: 0.0
+Luz Andrea Rodriguez Rojas: 0.0
+Luis Antonio Vinuesa Martinez: 0.0
+Francisco Botana Ferreiro: 0.0
+Felipe Sanchez Mateos: 0.0
+Igor Sobrado Delgado: 0.0
+Nestor Garcia Fernandez: 0.0
+Pedro Hernandez Arauzo: 0.0
+Miguel Sanchez Santillan: 0.0
+Laura Fernandez Diaz: 0.0
+Gustavo Fernandez Bayon: 0.0
+Maria Del Carmen Suarez Torrente: 0.0
+Aurora Barrero Lopez: 0.0
+Juan Jose Palacios Alonso: 0.0
+Lourdes Tajes Martinez: 0.0
+Manuel Garcia Vazquez: 0.0
+Pablo Suarez Otero Gonzalez: 0.0
+Marcos Palacios Gutierrez: 0.0
+Jose Quiroga Alvarez: 0.0
+Adolfo Otero Rodriguez: 0.0
+Pelayo Quiros Cueto: 0.0
+Miriam Fernandez Diaz: 0.0
+Jesus Moran Barbon: 0.0
+Guillermo Infante Hernandez: 0.0
+Jose Manuel Redondo Lopez: 0.0
+Oscar Diaz Pedrayes: 0.0
+Yuviny Echevarria Cartaya: 0.0
+Jesus Arturo Perez Diaz: 0.0
+Manuel Quintela Pumares: 0.0
+Luis Perez Castano: 0.0
+Armando Fernandez Sarasola: 0.0
+Santiago Garcia Carbajal: 0.0
+Alvaro Martinez Gomez: 0.0
+Alejandro Garcia Tuero: 0.0
+Abel Rionda Rodriguez: 0.0
+Daniel Ibaseta Rodriguez: 0.0
+Leon E. Welicki: 0.0
+Maria Elena Alva Obeso: 0.0
+Gustavo Millan Garcia: 0.0
+Adela Isabel Carrillo Gomez: 0.0
+Teobaldo Hernan Sagastegui Chigne: 0.0
+Jenny Alexandra Triana Casallas: 0.0
+Melchor Alonso Requejo: 0.0
+Beatriz Pariente Martinez: 0.0
+Jose Alberto Benitez Andrades: 0.0
+Pelayo Nuno Huergo: 0.0
+Luis Antonio Junco Navascues: 0.0
+Victor Manuel Alvarez Garcia: 0.0
+Raquel Blanco Aguirre: 0.0
+Noemi Linares Perez: 0.0
+Roy Arturo Mendieta Zuniga: 0.0
+Ruben Muniz Sanchez: 0.0
+Jorge Garcia Alvarez: 0.0
+Rodolfo De Benito Arango: 0.0
+Ana Isabel Fernandez Martinez: 0.0
+Manuel Enrique Fernandez Garcia: 0.0
+Cristian Gonzalez Garcia: 0.0
+Pablo Perez Gallego: 0.0
+Angel Francisco Del Rio Alvarez: 0.0
+Andres Garcia Mangas: 0.0
+Jaime Octavio Albarracin Ferreira: 0.0
+Miguel Riesco Albizu: 0.0
+Pena Reyes Ana M.: 0.0
+Agustin Cernuda Del Rio: 0.0
+Alberto Arias Maestro: 0.0
+Carlos E. Montenegro Marin: 0.0
+Jose Emilio Gaiad: 0.0
+Antonio Manuel Campos Lopez: 0.0
+Yuri Vanessa Nieto Acevedo: 0.0
+Alvaro Fernandez Millara: 0.0
+Ruben Zurita Hevia: 0.0
+Jose M. Lopez Lopez: 0.0
+Alejandro Vera Baquero: 0.0
+Francisco Dominguez Mateos: 0.0
+David Cabielles Hernandez: 0.0
+Secundino Gonzalez Perez: 0.0
+Noelia Rico Pachon: 0.0
+Javier Escalada Gomez: 0.0
+Victor Manuel Mondragon Maca: 0.0
+Maria Jose Suarez Cabal: 0.0
+Eugenia Diaz Fernandez: 0.0
+Francisco Javier Gil Gala: 0.0
+Griselda Rita Romina Bobeda: 0.0
+Maria Del Rosario Suarez Fernandez: 0.0
+Jose Manuel Felix Rodriguez: 0.0
+Luis Joyanes Aguilar: 0.0
+Jorge Rodriguez Perez: 0.0
+Pedro Manso Bernal: 0.0
+Nahuel Alejandro Costa Cortez: 0.0
+Sergio Cabrero Barros: 0.0
+Deiner Mena Waldo: 0.0
+Carlos Luis Menendez Gonzalez: 0.0
+Diaz De Arriba Jose Luis: 0.0
+Raul Mencia Cascallana: 0.0
+Francisco Gayo Lopez: 0.0

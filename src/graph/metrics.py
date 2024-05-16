@@ -1,12 +1,57 @@
 import os
 from typing import List
 
+import matplotlib.pyplot as plt
 import networkx as nx
+import numpy as np
+
+
+def plot_metric(metric_list: List[tuple], output_dir: str, filename: str):
+    """
+    Crea y guarda un gráfico de barras con los 10 primeros individuos de una métrica.
+
+    Params:
+    -------
+    metric_list : List[tuple]
+        Lista de tuplas que contienen los nombres y valores de la métrica.
+    output_dir : str
+        Directorio de salida donde se guardará el gráfico.
+    filename : str
+        Nombre del archivo de la métrica.
+
+    Returns:
+    --------
+    None
+    """
+
+    # Creamos y guardamos el gráfico de barras con los 10 primeros individuos
+    names = [item[0] for item in metric_list[:10]]
+    values = [item[1] for item in metric_list[:10]]
+
+    metric = filename.split(".")[0]
+
+    # Creamos un rango de colores basado en los valores de la métrica usando el colormap 'viridis'
+    colors = plt.cm.viridis(np.linspace(0, 1, len(values)))
+
+    plt.figure(figsize=(10, 6))
+    plt.bar(names, values, color=colors)
+    plt.ylabel(f"Valor de {metric}")
+    plt.title(f"Top 10 Individuos por {metric}")
+    plt.xticks(rotation=45, ha="right")
+    plt.tight_layout()
+
+    # Guardamos el gráfico en la misma ruta que el archivo de métricas
+    graph_filename = metric + "_barplot.svg"
+    graph_output_file = os.path.join(output_dir, graph_filename)
+    plt.savefig(graph_output_file)
+
+    # Cerramos el gráfico para liberar recursos
+    plt.close()
 
 
 def save_metric(metric_list: List[tuple], is_digraph: bool, filename: str) -> None:
     """
-    Guarda una lista de métricas en un archivo.
+    Guarda una lista de métricas en un archivo y los barplots asociados en el mismo directorio.
 
     Params:
     -------
@@ -22,14 +67,19 @@ def save_metric(metric_list: List[tuple], is_digraph: bool, filename: str) -> No
     - None
     """
 
-    if is_digraph:
-        output_file = os.path.join("outputs", "interactive", filename)
-    else:
-        output_file = os.path.join("outputs", "static", filename)
+    metrics_dir = "interactive" if is_digraph else "static"
+    metrics_dir = os.path.join(metrics_dir, "metrics")
+
+    output_dir = os.path.join("outputs", metrics_dir)
+    os.makedirs(output_dir, exist_ok=True)
+
+    output_file = os.path.join(output_dir, filename)
 
     with open(output_file, "w") as f:
         for node, metric_value in metric_list:
             f.write(f"{node}: {str(metric_value)}\n")
+
+    plot_metric(metric_list, output_dir, filename)
 
 
 def get_metric(graph: nx.Graph, metric: str, is_digraph: bool, filename: str) -> None:

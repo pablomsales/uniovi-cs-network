@@ -2,8 +2,8 @@ Juan Manuel Cueva Lovelle: 0.2135197123729234
 Francisco Ortin Soler: 0.15415081673752518
 Edward Rolando Nunez Valdez: 0.15120056187173522
 Bernardo Martin Gonzalez Rodriguez: 0.15048055919615552
-Begona Cristina Pelayo Garcia Bustelo: 0.14976738119048655
 Jordan Pascual Espada: 0.14976738119048655
+Begona Cristina Pelayo Garcia Bustelo: 0.14976738119048655
 Carlos E. Montenegro Marin: 0.14836111470043503
 Vicente Garcia Diaz: 0.14698101130787283
 Jose Emilio Labra Gayo: 0.14630054366292897
@@ -13,28 +13,28 @@ Raul Izquierdo Castanedo: 0.14234647491528227
 Jaime Solis Martinez: 0.14170814991566216
 Herminio Garcia Gonzalez: 0.14170814991566216
 Dario Alvarez Gutierrez: 0.14044852191641183
-Cristian Gonzalez Garcia: 0.13860051504909063
-Ana Belen Martinez Prieto: 0.13860051504909063
 Jose Fernando Lopez Quintero: 0.13860051504909063
+Ana Belen Martinez Prieto: 0.13860051504909063
+Cristian Gonzalez Garcia: 0.13860051504909063
 Maria Del Carmen Suarez Torrente: 0.13799527262529546
 Maria Elena Alva Obeso: 0.13799527262529546
-Maria Angeles Diaz Fondon: 0.13739529317909854
-Jenny Alexandra Triana Casallas: 0.13739529317909854
-Lourdes Tajes Martinez: 0.13739529317909854
-Jose Nelson Perez Castillo: 0.13739529317909854
-Jesus Arturo Perez Diaz: 0.13739529317909854
-Melchor Alonso Requejo: 0.13739529317909854
-Daniel Meana Llorian: 0.13739529317909854
-Nestor Garcia Fernandez: 0.13739529317909854
-Jose Ignacio Rodriguez Molano: 0.13739529317909854
-Luis Joyanes Aguilar: 0.13739529317909854
 Maria Candida Luengo Diez: 0.13739529317909854
-Luz Andrea Rodriguez Rojas: 0.13739529317909854
-Francisco Dominguez Mateos: 0.13739529317909854
-Cesar Fernandez Acebal: 0.13739529317909854
-Agustin Cernuda Del Rio: 0.13739529317909854
-Leon E. Welicki: 0.13739529317909854
 Fernando Alvarez Garcia: 0.13739529317909854
+Maria Angeles Diaz Fondon: 0.13739529317909854
+Jose Nelson Perez Castillo: 0.13739529317909854
+Cesar Fernandez Acebal: 0.13739529317909854
+Daniel Meana Llorian: 0.13739529317909854
+Jose Ignacio Rodriguez Molano: 0.13739529317909854
+Luz Andrea Rodriguez Rojas: 0.13739529317909854
+Nestor Garcia Fernandez: 0.13739529317909854
+Lourdes Tajes Martinez: 0.13739529317909854
+Jesus Arturo Perez Diaz: 0.13739529317909854
+Leon E. Welicki: 0.13739529317909854
+Jenny Alexandra Triana Casallas: 0.13739529317909854
+Melchor Alonso Requejo: 0.13739529317909854
+Agustin Cernuda Del Rio: 0.13739529317909854
+Francisco Dominguez Mateos: 0.13739529317909854
+Luis Joyanes Aguilar: 0.13739529317909854
 Luciano Sanchez Ramos: 0.12625637974762813
 Jose Antonio Corrales Gonzalez: 0.12582693627909877
 Pablo Javier Tuya Gonzalez: 0.12372280690988309
@@ -44,8 +44,8 @@ Maria Puerto Paule Ruiz: 0.11704043493034319
 Moises Riestra Gonzalez: 0.11617984349703185
 Giovanny Mauricio Bermudez Tarazona: 0.11533181544230899
 Fernando Enrique Lopez Martinez: 0.11326493702936437
-Victor Manuel Mondragon Maca: 0.11326493702936437
 Guillermo Cueva Fernandez: 0.11326493702936437
+Victor Manuel Mondragon Maca: 0.11326493702936437
 Benjamin Lopez Perez: 0.11286041939711665
 Chaudhry Muhammad Nadeem Faisal: 0.11166401919149349
 Beatriz Pariente Martinez: 0.11166401919149349
@@ -53,50 +53,50 @@ Daniel Fernandez Lanvin: 0.11127083602532627
 Jose Ranilla Pastor: 0.11075784211393726
 Ruben Casado Tejedor: 0.11059228480136038
 Miguel Riesco Albizu: 0.11059228480136038
-Jose Quiroga Alvarez: 0.11010772624108942
-Luis Antonio Vinuesa Martinez: 0.11010772624108942
-Jose Manuel Redondo Lopez: 0.11010772624108942
 Oscar Rodriguez Prieto: 0.11010772624108942
-Jose Manuel Felix Rodriguez: 0.11010772624108942
 Miguel Garcia Rodriguez: 0.11010772624108942
+Luis Antonio Vinuesa Martinez: 0.11010772624108942
+Jose Quiroga Alvarez: 0.11010772624108942
+Jose Manuel Redondo Lopez: 0.11010772624108942
 Javier Escalada Gomez: 0.11010772624108942
+Jose Manuel Felix Rodriguez: 0.11010772624108942
 Guillermo Infante Hernandez: 0.10972540774719673
 David Cabielles Hernandez: 0.10934573505602997
 Angel Francisco Del Rio Alvarez: 0.10896868079721607
 Jose Maria Alvarez Rodriguez: 0.10748611371153965
 Daniel Fernandez Alvarez: 0.10748611371153965
 Yuri Vanessa Nieto Acevedo: 0.10712175400404292
-Alberto Manuel Fernandez Alvarez: 0.10640039539122108
 Victor M. Lopez Fandino: 0.10640039539122108
-Jose Alberto Benitez Andrades: 0.10604334708453912
+Alberto Manuel Fernandez Alvarez: 0.10640039539122108
 Teobaldo Hernan Sagastegui Chigne: 0.10604334708453912
+Jose Alberto Benitez Andrades: 0.10604334708453912
 Enrique Antonio De La Cal Marin: 0.10569462647444298
 Daniel Gayo Avello: 0.10568868706084501
 Oliverio Gonzalez Alonso: 0.10464814502420097
 Ana Maria Palacios Jimenez: 0.10450033690976002
 Alvaro Martinez Gomez: 0.10435294574345569
-Adolfo Otero Rodriguez: 0.10405940721815765
 Jose Otero Rodriguez: 0.10405940721815765
+Adolfo Otero Rodriguez: 0.10405940721815765
 Carlos Fernandez Medina: 0.10395038628681795
-Carlos Luis Menendez Gonzalez: 0.10391325636532314
-Ana Isabel Fernandez Martinez: 0.10391325636532314
-Nahuel Alejandro Costa Cortez: 0.10391325636532314
+Krzysztof Trawinski: 0.10391325636532314
 Yuviny Echevarria Cartaya: 0.10391325636532314
+Santiago Garcia Carbajal: 0.10391325636532314
+Ana Isabel Fernandez Martinez: 0.10391325636532314
 Ruben Zurita Hevia: 0.10391325636532314
 Maria Del Rosario Suarez Fernandez: 0.10391325636532314
-Krzysztof Trawinski: 0.10391325636532314
-Santiago Garcia Carbajal: 0.10391325636532314
+Nahuel Alejandro Costa Cortez: 0.10391325636532314
+Carlos Luis Menendez Gonzalez: 0.10391325636532314
 Ruben Muniz Sanchez: 0.10362218281808136
 Jaime Octavio Albarracin Ferreira: 0.1029345844664256
 Claudio A. De La Riva Alvarez: 0.1024740145874101
 Raquel Blanco Aguirre: 0.1024740145874101
-Jesus Moran Barbon: 0.10233228012739984
-Jose Garcia Fanjul: 0.10233228012739984
 Alberto Fernandez Villan: 0.10233228012739984
-Eugenia Diaz Fernandez: 0.10219093719904708
+Jose Garcia Fanjul: 0.10233228012739984
+Jesus Moran Barbon: 0.10233228012739984
 Pablo Suarez Otero Gonzalez: 0.10219093719904708
 Marcos Palacios Gutierrez: 0.10219093719904708
 Maria Jose Suarez Cabal: 0.10219093719904708
+Eugenia Diaz Fernandez: 0.10219093719904708
 Antonio Bahamonde Rionda: 0.10079869009824262
 Victor Guillermo Garcia Garcia: 0.09944386899477162
 Ruben Usamentiaga Fernandez: 0.09735031385803958
@@ -105,9 +105,9 @@ Daniel Fernando Garcia Martinez: 0.09156712689617585
 Ruben Aristides Gonzalez Crespo: 0.09106892631467625
 Ursula Sandra Rivera Cueva: 0.09080723399768005
 Manuel Garcia Vazquez: 0.09078066077559518
-Gustavo Millan Garcia: 0.09054704135012223
-Holman Diego Bolivar Baron: 0.09054704135012223
 Hugo Ramiro Zaldana Bustamante: 0.09054704135012223
+Holman Diego Bolivar Baron: 0.09054704135012223
+Gustavo Millan Garcia: 0.09054704135012223
 Miguel Sanchez Santillan: 0.09028833551769332
 Alberto Arias Maestro: 0.09028833551769332
 Paula Maria Vergara Garcia: 0.09022712016110986
@@ -123,13 +123,13 @@ Julio Molleda Mere: 0.08735093097061404
 Secundino Gonzalez Perez: 0.08729535201986922
 Belarmino Adenso Diaz Fernandez: 0.08724792279729963
 Juan Jose Del Coz Velasco: 0.08704263356718833
+Francisco Javier De La Calle Herrero: 0.08694035080153947
 Jorge Diez Pelaez: 0.08694035080153947
 Dario Gonzalez Lema: 0.08694035080153947
-Oscar Diaz Pedrayes: 0.08694035080153947
-Pedro Manso Bernal: 0.08694035080153947
 Francisco Gonzalez Bulnes: 0.08694035080153947
+Oscar Diaz Pedrayes: 0.08694035080153947
 Luis Perez Castano: 0.08694035080153947
-Francisco Javier De La Calle Herrero: 0.08694035080153947
+Pedro Manso Bernal: 0.08694035080153947
 Xicu Xabiel Garcia Paneda: 0.08673650472697549
 Oscar Luaces Rodriguez: 0.08663493973314998
 Manuel Quintela Pumares: 0.08657785597587031
@@ -138,10 +138,10 @@ Gustavo Fernandez Bayon: 0.08643252164966132
 David Melendi Palacio: 0.08623104724022156
 Carlos Eiras Franco: 0.08603050992105823
 Jaime Alonso Gonzalez: 0.08603050992105823
-Pena Reyes Ana M.: 0.08603050992105823
-Pedro Hernandez Arauzo: 0.08603050992105823
 Alfredo Santiago Alguero Garcia: 0.08603050992105823
 Francisco Botana Ferreiro: 0.08603050992105823
+Pedro Hernandez Arauzo: 0.08603050992105823
+Pena Reyes Ana M.: 0.08603050992105823
 Laura Fernandez Diaz: 0.08573144673477415
 Miriam Fernandez Diaz: 0.08573144673477415
 Igor Sobrado Delgado: 0.08504165348518401
@@ -156,64 +156,64 @@ Javier Garcia Martinez: 0.0795550951958173
 Juan Carlos Granda Candas: 0.0795550951958173
 Ramon Medrano Llamas: 0.07938437610741426
 Felipe Sanchez Mateos: 0.07921438815001079
-Jose M. Lopez Lopez: 0.07921438815001079
-Antonio Manuel Campos Lopez: 0.07921438815001079
-Diaz De Arriba Jose Luis: 0.07921438815001079
 Armando Fernandez Sarasola: 0.07921438815001079
+Antonio Manuel Campos Lopez: 0.07921438815001079
+Jose M. Lopez Lopez: 0.07921438815001079
+Diaz De Arriba Jose Luis: 0.07921438815001079
 Jose Ramon Villar Flecha: 0.07854165449268587
 Raquel Quiroga Garcia: 0.07788025108643166
 Pablo Perez Gallego: 0.07714936239010436
 Jorge Puente Peinador: 0.07659030903945142
-Juan Jose Palacios Alonso: 0.07635318733963889
-Manuel Vilas Paz: 0.07635318733963889
 Maria Teresa Gonzalez Aparicio: 0.07635318733963889
+Manuel Vilas Paz: 0.07635318733963889
 Maria Rita Sierra Sanchez: 0.07635318733963889
-Francisco Javier Gil Gala: 0.07627447271351556
+Juan Jose Palacios Alonso: 0.07635318733963889
+Carlos Mencia Cascallana: 0.07627447271351556
 Miguel Angel Gonzalez Fernandez: 0.07627447271351556
 Jorge Garcia Alvarez: 0.07627447271351556
-Carlos Mencia Cascallana: 0.07627447271351556
+Francisco Javier Gil Gala: 0.07627447271351556
 Pablo Perez Nunez: 0.07619592021844498
 Raul Mencia Cascallana: 0.07619592021844498
-Daniel Ibaseta Rodriguez: 0.07603929962190142
-Laura Pozueco Alvarez: 0.07603929962190142
-Alvaro Fernandez Millara: 0.07603929962190142
 Alberto Alvarez Gonzalez: 0.07603929962190142
+Laura Pozueco Alvarez: 0.07603929962190142
+Daniel Ibaseta Rodriguez: 0.07603929962190142
+Alvaro Fernandez Millara: 0.07603929962190142
 Jose Barranquero Tolosa: 0.07596123052578037
 Pablo Gonzalez Gonzalez: 0.07596123052578037
-Abel Rionda Rodriguez: 0.07588332157139495
 Alejandro Garcia Tuero: 0.07588332157139495
+Abel Rionda Rodriguez: 0.07588332157139495
 Deiner Mena Waldo: 0.07580557226650624
 Enrique Juan De Andres Galiana: 0.07565055064632933
 Jose Antonio Sanchez Sanchez: 0.07557327735659866
 Sergio Cabrero Barros: 0.07557327735659866
-Francisco Gayo Lopez: 0.07534240176385956
 Maria Elena Rodriguez Vazquez: 0.07534240176385956
 Jorge Rodriguez Perez: 0.07534240176385956
+Francisco Gayo Lopez: 0.07534240176385956
 Aurora Barrero Lopez: 0.07518926680092489
 Raul Perez Fernandez: 0.07369147264154391
 Pelayo Quiros Cueto: 0.07369147264154391
 Rodolfo De Benito Arango: 0.07354496871979134
-Griselda Rita Romina Bobeda: 0.07354496871979134
-Noelia Rico Pachon: 0.07354496871979134
 Jose Emilio Gaiad: 0.07354496871979134
+Noelia Rico Pachon: 0.07354496871979134
+Griselda Rita Romina Bobeda: 0.07354496871979134
 Pablo Cienfuegos Suarez: 0.07349050565393642
 Rebeca Cerezo Menendez: 0.07315027183146448
 Pelayo Nuno Huergo: 0.0701956722316035
 Andres Garcia Mangas: 0.07012913604939344
-Noemi Linares Perez: 0.07006272588268
 Adela Isabel Carrillo Gomez: 0.07006272588268
+Noemi Linares Perez: 0.07006272588268
 Joaquin Entrialgo Castano: 0.06993028216645565
 Silvia Gonzalez Gonzalez: 0.06927550424354877
 Javier Sedano Franco: 0.06927550424354877
 Gabriel Diaz Orueta: 0.06819008159641482
 Ines Gonzalez Rodriguez: 0.06756734112521469
 Juan Luis Fernandez Martinez: 0.06701652040952
-Susana Montes Rodriguez: 0.06547454737354876
 Pedro Alonso Velazquez: 0.06547454737354876
+Susana Montes Rodriguez: 0.06547454737354876
 Alejandro Rodriguez Gonzalez: 0.013761467889908258
 Ignacio Gonzalez Alonso: 0.009174311926605505
 Gerardo Lagunes Garcia: 0.008256880733944955
 Luis Omar Colombo Mendoza: 0.008256880733944955
 Gandhi Samuel Hernandez Chan: 0.008256880733944955
-Maria Del Pilar Almudena Garcia Fuente: 0.0061162079510703364
 Maria Rodriguez Fernandez: 0.0061162079510703364
+Maria Del Pilar Almudena Garcia Fuente: 0.0061162079510703364

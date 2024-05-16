@@ -21,8 +21,7 @@ def main():
     interactive_graphs_dir = os.path.join("outputs", "interactive")
 
     for dir in [static_graphs_dir, interactive_graphs_dir]:
-        if not os.path.exists(dir):
-            os.makedirs(dir)
+        os.makedirs(dir, exist_ok=True)
 
     # obtenemos grafos simples
     simple_graph, simple_digraph = graph_maker.get_simple_graphs(relations)
