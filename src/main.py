@@ -1,7 +1,7 @@
 import os
 
 from graph import graph_maker, metrics
-from scrapper.json_generator import load_thesis_json, save_thesis_json
+from scraper.json_generator import load_thesis_json, save_thesis_json
 
 
 def main():
