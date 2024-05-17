@@ -9,6 +9,7 @@ También se adjuntas barplots de las métricas calculadas, estan en los subdirec
 
 ## Estructura de directorios:
 
+```bash
 ./
 ├──  data/
 │   └──  thesis.json
@@ -80,3 +81,4 @@ También se adjuntas barplots de las métricas calculadas, estan en los subdirec
 |
 ├── README.md
 └── requirements.txt
+```
