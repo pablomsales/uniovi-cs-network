@@ -13,7 +13,7 @@ También se adjuntas barplots de las métricas calculadas, estan en los subdirec
 ./
 ├──  data/
 │   └──  thesis.json
-|
+│
 ├── outputs/
 │   ├── interactive/
 │   │   ├── metrics/
@@ -25,11 +25,11 @@ También se adjuntas barplots de las métricas calculadas, estan en los subdirec
 │   │   │   ├── degree_centrality_digraph.txt
 │   │   │   ├── in_degree_centrality_barplot.svg
 │   │   │   └── in_degree_centrality.txt
-|   |   |
+│   │   │
 │   │   ├── thesis_communities_interactive.html
 │   │   ├── thesis_degree_interactive.html
 │   │   └── thesis_interactive.html
-|   |
+│   │
 │   └── static/
 │       ├── metrics/
 │       │   ├── betweenness_centrality_barplot.svg
@@ -38,11 +38,11 @@ También se adjuntas barplots de las métricas calculadas, estan en los subdirec
 │       │   ├── closeness_centrality.txt
 │       │   ├── degree_centrality_barplot.svg
 │       │   └── degree_centrality.txt
-|       |
+│       │
 │       ├── thesis_communities.svg
 │       ├── thesis_degree.svg
 │       └── thesis_simple.svg
-|
+│
 ├── src/
 │   ├── graph/
 │   │   ├── __pycache__/
@@ -53,13 +53,13 @@ También se adjuntas barplots de las métricas calculadas, estan en los subdirec
 │   │   │   ├── plot_interactive_graphs.cpython-311.pyc
 │   │   │   ├── plot_static_graphs.cpython-311.pyc
 │   │   │   └── relations.cpython-311.pyc
-|   |   |
+│   │   │
 │   │   ├── graph_maker.py
 │   │   ├── __init__.py
 │   │   ├── metrics.py
 │   │   ├── plot_interactive_graphs.py
 │   │   └── plot_static_graphs.py
-|   |
+│   │
 │   ├── scraper/
 │   │   ├── __pycache__/
 │   │   │   ├── button_click.cpython-311.pyc
@@ -69,16 +69,16 @@ También se adjuntas barplots de las métricas calculadas, estan en los subdirec
 │   │   │   ├── extract_data.cpython-311.pyc
 │   │   │   ├── __init__.cpython-311.pyc
 │   │   │   └── json_generator.cpython-311.pyc
-|   |   |
+│   │   │
 │   │   ├── clean_data.py
 │   │   ├── click_button.py
 │   │   ├── config.py
 │   │   ├── extract_data.py
 │   │   ├── __init__.py
 │   │   └── json_generator.py
-|   |
+│   │
 │   └── main.py
-|
+│
 ├── README.md
 └── requirements.txt
 ```
