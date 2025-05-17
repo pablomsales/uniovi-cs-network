@@ -50,10 +50,7 @@ Explore the interactive network visualizations hosted on GitHub Pages:
  > with the existing research groups, indicating that the Louvain method successfully
  > identifies communities that align well with the actual research group structure of the
  > department.
- >
- > It's worth noting that this high level of correspondence suggests that collaborative patterns within the department 
- > tend to follow formal research group boundaries, which validates both the algorithmic approach and the existing
- > organizational structure.
+
 
 
 
