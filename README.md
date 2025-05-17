@@ -1,10 +1,16 @@
 # UniOvi Computer Science Network Analysis
 
-This project analyzes and visualizes the network of PhD theses from the Department of
-Computer Science at the University of Oviedo. It scrapes data from the university's thesis
-web repository using Selenium, builds relationship graphs between authors and directors
-using Networkx, calculates relevant network metrics, and provides both static and
-interactive visualizations.
+## TLDR
+
+This project analyzes PhD thesis supervision relationships at University of Oviedo's CS
+Department using network analysis. It identifies influential supervisors, research
+communities, and network structures through various centrality metrics.
+[Explore the interactive network visualization](https://pablomsales.github.io/uniovi-cs-network/)
+to see the connections between authors and supervisors.
+
+It scrapes data from the university's thesis web repository using Selenium, builds
+relationship graphs between authors and directors using Networkx, calculates relevant
+network metrics, and provides both static and interactive visualizations.
 
 ## Features
 
@@ -36,6 +42,17 @@ interactive visualizations.
 Explore the interactive network visualizations hosted on GitHub Pages:
 
 **[View Interactive Graph](https://pablomsales.github.io/uniovi-cs-network/)**
+
+/**
+ * The results of the detected communities show a significant level of correspondence
+ * with the existing research groups, indicating that the Louvain method successfully
+ * identifies communities that align well with the actual research group structure of the
+ * department.
+
+ * It's worth noting that this high level of correspondence suggests that collaborative patterns within the department 
+ * tend to follow formal research group boundaries, which validates both the algorithmic approach and the existing
+ * organizational structure.
+ */
 
 
 
