@@ -45,19 +45,27 @@ individuals. Full metric data is available in the `.txt` files within the respec
 `metrics` subdirectories.
 
 **Degree Centrality (Directed Graph)**
+
 *Highlights individuals with the most connections (supervisions given and received).*
+
 ![Degree Centrality Digraph](outputs/interactive/metrics/degree_centrality_digraph_barplot.svg)
 
 **In-Degree Centrality / Prestige (Directed Graph)**
+
 *Highlights individuals who have supervised the most theses.*
+
 ![In-Degree Centrality](outputs/interactive/metrics/in_degree_centrality_barplot.svg)
 
 **Betweenness Centrality (Directed Graph)**
+
 *Highlights individuals who act as bridges or connectors between different parts of the network.*
+
 ![Betweenness Centrality Digraph](outputs/interactive/metrics/betweenness_centrality_digraph_barplot.svg)
 
 **Closeness Centrality (Directed Graph)**
+
 *Highlights individuals who are, on average, closest to all other individuals in the network.*
+
 ![Closeness Centrality Digraph](outputs/interactive/metrics/closeness_centrality_digraph_barplot.svg)
 
 
