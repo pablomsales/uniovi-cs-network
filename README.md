@@ -1,84 +1,69 @@
-# UniOvi CS Network
+# UniOvi Computer Science Network Analysis
 
-Grafos con las Tesis Doctorales del Departamento de Informática de la Universidad de Oviedo.
+This project analyzes and visualizes the network of PhD theses from the Department of
+Computer Science at the University of Oviedo. It scrapes data from the university's thesis
+web repository, builds relationship graphs between authors and directors, calculates various
+network metrics, and provides both static and interactive visualizations.
 
-Los grafos se encuentran en `outputs`. Hay versiones estáticas e interactivas. Las interactivas son muchísimo más informativas que las estáticas.
-Para visualizarlas, descargar el `.html` correspondiente y abrirlo con un navegador. En principio, deberían poder visualizarse tanto con Firefox como con cualquier navegador derivado de Chromium (Chrome, Safari, Brave, ...).
+## Features
 
-También se adjuntan barplots de las métricas calculadas, estan en los subdirectorios `metrics`, junto con las métricas completas en formato `.txt`.
+*   **Data Scraping**: Collects thesis data, including titles, authors, directors
+                        using Python and Selenium.
 
-## Estructura de directorios:
+*   **Graph Generation**: Creates directed graphs representing thesis supervision
+                        relationships using NetworkX.
 
-```bash
-./
-├──  data/
-│   └──  thesis.json
-│
-├── outputs/
-│   ├── interactive/
-│   │   ├── metrics/
-│   │   │   ├── betweenness_centrality_digraph_barplot.svg
-│   │   │   ├── betweenness_centrality_digraph.txt
-│   │   │   ├── closeness_centrality_digraph_barplot.svg
-│   │   │   ├── closeness_centrality_digraph.txt
-│   │   │   ├── degree_centrality_digraph_barplot.svg
-│   │   │   ├── degree_centrality_digraph.txt
-│   │   │   ├── in_degree_centrality_barplot.svg
-│   │   │   └── in_degree_centrality.txt
-│   │   │
-│   │   ├── thesis_communities_interactive.html
-│   │   ├── thesis_degree_interactive.html
-│   │   └── thesis_interactive.html
-│   │
-│   └── static/
-│       ├── metrics/
-│       │   ├── betweenness_centrality_barplot.svg
-│       │   ├── betweenness_centrality.txt
-│       │   ├── closeness_centrality_barplot.svg
-│       │   ├── closeness_centrality.txt
-│       │   ├── degree_centrality_barplot.svg
-│       │   └── degree_centrality.txt
-│       │
-│       ├── thesis_communities.svg
-│       ├── thesis_degree.svg
-│       └── thesis_simple.svg
-│
-├── src/
-│   ├── graph/
-│   │   ├── __pycache__/
-│   │   │   ├── graph_and_metrics.cpython-311.pyc
-│   │   │   ├── graph_maker.cpython-311.pyc
-│   │   │   ├── __init__.cpython-311.pyc
-│   │   │   ├── metrics.cpython-311.pyc
-│   │   │   ├── plot_interactive_graphs.cpython-311.pyc
-│   │   │   ├── plot_static_graphs.cpython-311.pyc
-│   │   │   └── relations.cpython-311.pyc
-│   │   │
-│   │   ├── graph_maker.py
-│   │   ├── __init__.py
-│   │   ├── metrics.py
-│   │   ├── plot_interactive_graphs.py
-│   │   └── plot_static_graphs.py
-│   │
-│   ├── scraper/
-│   │   ├── __pycache__/
-│   │   │   ├── button_click.cpython-311.pyc
-│   │   │   ├── clean_data.cpython-311.pyc
-│   │   │   ├── click_button.cpython-311.pyc
-│   │   │   ├── config.cpython-311.pyc
-│   │   │   ├── extract_data.cpython-311.pyc
-│   │   │   ├── __init__.cpython-311.pyc
-│   │   │   └── json_generator.cpython-311.pyc
-│   │   │
-│   │   ├── clean_data.py
-│   │   ├── click_button.py
-│   │   ├── config.py
-│   │   ├── extract_data.py
-│   │   ├── __init__.py
-│   │   └── json_generator.py
-│   │
-│   └── main.py
-│
-├── README.md
-└── requirements.txt
-```
+*   **Network Metrics**: Calculates key centrality metrics (Degree, In-Degree/Prestige,
+                        Betweenness, Closeness) to identify influential individuals and
+                        structural properties of the network.
+
+*   **Community Detection**: Identifies research communities or clusters within the network
+                        using Louvain's Method, the current SOTA in community detection.
+
+*   **Interactive Visualizations**: Generates dynamic and explorable HTML graphs using
+                        Pyvis, allowing users to interact with the network.
+
+*   **Static Visualizations**: Produces static SVG images of graphs and barplots of
+                        metrics using Matplotlib for quick overviews and reporting.
+
+
+
+## Visualizations
+
+### Interactive Network Graphs With Detected Communities
+
+Explore the interactive network visualizations hosted on GitHub Pages:
+
+**[View Interactive Graph](https://pablomsales.github.io/uniovi-cs-network/)**
+
+
+
+### Key Metric Barplots
+
+Below are barplots for some of the calculated network metrics, highlighting the top individuals. Full metric data is available in the `.txt` files within the respective `metrics` subdirectories.
+
+**Degree Centrality (Directed Graph)**
+*Highlights individuals with the most connections (supervisions given and received).*
+![Degree Centrality Digraph](outputs/interactive/metrics/degree_centrality_digraph_barplot.svg)
+
+**In-Degree Centrality / Prestige (Directed Graph)**
+*Highlights individuals who have supervised the most theses.*
+![In-Degree Centrality](outputs/interactive/metrics/in_degree_centrality_barplot.svg)
+
+**Betweenness Centrality (Directed Graph)**
+*Highlights individuals who act as bridges or connectors between different parts of the network.*
+![Betweenness Centrality Digraph](outputs/interactive/metrics/betweenness_centrality_digraph_barplot.svg)
+
+**Closeness Centrality (Directed Graph)**
+*Highlights individuals who are, on average, closest to all other individuals in the network.*
+![Closeness Centrality Digraph](outputs/interactive/metrics/closeness_centrality_digraph_barplot.svg)
+
+
+## Technologies Used
+
+*   **Python**: Core language for scripting, data processing, and automation.
+    *   **Selenium**: For web scraping thesis data from dynamic web pages.
+    *   **NetworkX**: For creating, manipulating, and analyzing complex networks (graphs).
+    *   **Matplotlib**: For generating static plots and visualizations, such as bar charts for metrics.
+    *   **Pyvis**: For creating interactive network visualizations renderable in HTML.
+*   **Git & GitHub**: For version control and project hosting.
