@@ -38,9 +38,11 @@ Explore the interactive network visualizations hosted on GitHub Pages:
 
 
 
-### Key Metric Barplots
+### Key Metrics
 
-Below are barplots for some of the calculated network metrics, highlighting the top individuals. Full metric data is available in the `.txt` files within the respective `metrics` subdirectories.
+Below are barplots for some of the calculated network metrics, highlighting the top
+individuals. Full metric data is available in the `.txt` files within the respective
+`metrics` subdirectories.
 
 **Degree Centrality (Directed Graph)**
 *Highlights individuals with the most connections (supervisions given and received).*
