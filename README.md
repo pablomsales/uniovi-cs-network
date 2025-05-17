@@ -43,11 +43,17 @@ Explore the interactive network visualizations hosted on GitHub Pages:
 
 **[View Interactive Graph](https://pablomsales.github.io/uniovi-cs-network/)**
 
-<div style="background-color: #f8f9fa; border-left: 4px solid #007bff; padding: 15px; margin: 20px 0; border-radius: 4px;">
-    <strong>📊 Analysis Results:</strong> The detected communities show significant correspondence with existing research groups, validating that the Louvain method successfully identifies communities aligned with the department's actual research structure.
-    
-    <p style="margin-top: 10px;">This high level of correspondence suggests that collaborative patterns within the department tend to follow formal research group boundaries, which validates both our algorithmic approach and the existing organizational structure.</p>
-</div>
+
+
+ > [!NOTE]
+ > The results of the detected communities show a significant level of correspondence
+ > with the existing research groups, indicating that the Louvain method successfully
+ > identifies communities that align well with the actual research group structure of the
+ > department.
+ >
+ > It's worth noting that this high level of correspondence suggests that collaborative patterns within the department 
+ > tend to follow formal research group boundaries, which validates both the algorithmic approach and the existing
+ > organizational structure.
 
 
 
