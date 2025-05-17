@@ -2,8 +2,9 @@
 
 This project analyzes and visualizes the network of PhD theses from the Department of
 Computer Science at the University of Oviedo. It scrapes data from the university's thesis
-web repository, builds relationship graphs between authors and directors, calculates various
-network metrics, and provides both static and interactive visualizations.
+web repository using Selenium, builds relationship graphs between authors and directors
+using Networkx, calculates relevant network metrics, and provides both static and
+interactive visualizations.
 
 ## Features
 
