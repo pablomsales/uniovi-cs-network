@@ -1,4 +1,4 @@
-# Grafos Tesis UniOvi
+# UniOvi CS Network
 
 Grafos con las Tesis Doctorales del Departamento de Informática de la Universidad de Oviedo.
 
